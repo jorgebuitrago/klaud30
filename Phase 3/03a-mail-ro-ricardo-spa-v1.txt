@@ -1,0 +1,32 @@
+Hola Ricardo,
+
+¿Cómo estás? Vi que le diste like a nuestra publicación en LinkedIn sobre las certificaciones de Broadcom que obtuvimos recientemente. Gracias por eso; para nosotros fue un hito importante y también una buena oportunidad para ordenar mejor cómo queremos posicionarnos hacia adelante.
+
+Quería compartirte dos documentos breves que resumen esa evolución:
+
+* nuestra definición actual de identidad como firma
+* un one-pager con las áreas en las que hoy vemos que Klaud puede aportar más valor dentro de proyectos de Broadcom
+
+La idea de fondo es simple: en vez de vernos solo como capacidad adicional de delivery, queremos que Broadcom pueda identificarnos con mayor claridad como un partner de servicios especializado para escenarios donde realmente hacemos diferencia, sobre todo en iniciativas con mayor complejidad técnica o fuera del patrón estándar.
+
+En las últimas semanas hemos notado una baja en el volumen de proyectos y, por ende, en las horas asignadas. Más que verlo como una preocupación, lo estamos tomando como una oportunidad para comunicar mejor dónde podemos ser más útiles y cómo podemos apoyar de forma más focalizada a tu equipo.
+
+En particular, creemos que podemos aportar mucho valor en frentes como:
+
+* arquitectura de plataforma VMware en entornos complejos o heterogéneos
+* modernización hacia VMware Cloud Foundation
+* networking avanzado / NSX / VCF Networking
+* automatización sobre VCF
+* habilitación de Kubernetes sobre VMware
+* proyectos que requieren criterio técnico senior para destrabar decisiones o estabilizar la ejecución
+
+Nuestra intención es que, cuando aparezcan proyectos con este tipo de características, Klaud esté más presente desde etapas tempranas, donde normalmente se define buena parte del resultado.
+
+Te comparto esto porque valoramos mucho la relación que hemos construido contigo y con el equipo, y porque creemos que hoy tenemos una propuesta más clara y más alineada con el tipo de proyectos donde Broadcom puede sacar mayor provecho de nuestra experiencia.
+
+Si te parece, en algún momento podemos conversar unos minutos para contarte esto con más contexto y escuchar también en qué áreas ves más necesidad desde tu lado.
+
+Gracias, como siempre, por la confianza y el apoyo de todos estos años.
+
+Saludos,
+Klaud
