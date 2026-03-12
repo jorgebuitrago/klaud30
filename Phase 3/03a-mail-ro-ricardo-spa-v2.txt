@@ -1,0 +1,16 @@
+Hola Ricardo,
+
+Espero que estés muy bien.
+
+Te comparto dos documentos adjuntos que resumen cómo estamos posicionando hoy a Klaud: nuestra definición de identidad y un one-pager con las áreas donde consideramos que podemos aportar mayor valor dentro de proyectos de Broadcom.
+
+El objetivo de esta iniciativa es hacer más visible nuestro enfoque actual y facilitar que Klaud pueda ser considerado en proyectos donde nuestra especialización realmente haga diferencia, especialmente en temas de arquitectura VMware, VCF, networking avanzado, automatización y Kubernetes sobre VMware.
+
+En las últimas semanas hemos visto una disminución en la asignación de horas, y precisamente por eso queremos comunicar de forma más clara en qué tipos de iniciativas creemos que podemos aportar más valor y ayudar a aumentar nuestro nivel de participación en proyectos más alineados con nuestra especialización.
+
+Si lo ves conveniente, podemos programar una llamada para comentarte esto brevemente y revisar contigo dónde ves mayor espacio para que Klaud siga apoyando al equipo.
+
+Gracias, Ricardo.
+
+Un saludo,
+Klaud

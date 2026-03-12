@@ -1,0 +1,32 @@
+Hi Ricardo,
+
+Hope you’re doing well. I noticed you liked our recent LinkedIn post about the Broadcom certifications we obtained—thank you for that. It was an important milestone for us and also a good opportunity to clarify how we want to position Klaud moving forward.
+
+I wanted to share two short documents that summarize that evolution:
+
+* our updated identity definition as a firm
+* a one-pager outlining the areas where we believe Klaud can bring the most value within Broadcom projects
+
+The main idea is simple: rather than being seen only as additional delivery capacity, we would like Broadcom teams to more easily recognize Klaud as a specialized services partner for scenarios where our expertise can truly make a difference—particularly in initiatives that involve higher technical complexity or fall outside standard deployment patterns.
+
+Over the past few weeks we’ve noticed a decrease in the number of projects—and therefore the hours—assigned to us. Rather than seeing this as a concern, we’re approaching it as an opportunity to better communicate where we can be most helpful and how we can support your team in a more focused way.
+
+In particular, we believe we can add significant value in areas such as:
+
+* VMware platform architecture for complex or heterogeneous environments
+* modernization toward VMware Cloud Foundation
+* advanced networking / NSX / VCF Networking
+* automation within VCF environments
+* Kubernetes enablement on VMware platforms
+* projects that require senior technical judgment to unblock decisions or stabilize delivery
+
+Our goal is that when projects with these characteristics arise, Klaud can be involved earlier in the process—where many of the key outcomes are typically defined.
+
+We wanted to share this directly with you because we truly value the relationship we’ve built with you and the team, and because we believe our positioning today is clearer and better aligned with the types of projects where Broadcom can benefit most from our experience.
+
+If you’re open to it, we’d be happy to schedule a quick call to walk through this with a bit more context and hear your perspective on where you see the greatest need from your side.
+
+As always, thank you for the trust and support over the years.
+
+Best regards,
+Klaud

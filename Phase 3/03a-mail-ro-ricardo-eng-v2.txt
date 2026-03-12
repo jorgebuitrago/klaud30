@@ -1,0 +1,16 @@
+Hi Ricardo,
+
+Hope you’re doing well.
+
+I’m sharing two short documents that summarize how we’re positioning Klaud today: our identity definition and a one-pager outlining the areas where we believe we can contribute the most value within Broadcom projects.
+
+The goal of this initiative is to make our focus more visible and help ensure Klaud is considered for projects where our specialization can really make a difference—particularly around VMware architecture, VCF, advanced networking, automation, and Kubernetes on VMware.
+
+Over the past few weeks we’ve noticed a decrease in the number of hours assigned to us, and for that reason we wanted to communicate more clearly the types of initiatives where we believe we can add the most value and increase our participation in projects that align with our specialization.
+
+If it makes sense, we’d be happy to schedule a short call to walk through this briefly and hear your perspective on where you see the best opportunities for Klaud to continue supporting the team.
+
+Thanks, Ricardo.
+
+Best regards,
+Klaud
