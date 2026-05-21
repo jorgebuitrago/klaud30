@@ -1,0 +1,232 @@
+# 9. Delivery Methodology
+
+Klaud follows a structured delivery methodology designed to reduce risk, improve execution quality, and provide partners with a repeatable model for complex VMware Cloud Foundation and private cloud projects.
+
+The methodology is practical and outcome-driven. It is designed to support professional services delivery across assessments, architecture, deployments, upgrades, migrations, add-ons, and stabilization engagements.
+
+While each project may vary depending on scope and complexity, Klaud generally follows the phases below.
+
+---
+
+## 9.1 Discover
+
+The discovery phase is used to understand the customer’s current environment, business drivers, technical requirements, constraints, and project objectives.
+
+Typical activities may include:
+
+* Technical discovery sessions
+* Review of current infrastructure
+* Review of VMware, network, storage, and security architecture
+* Identification of business and technical drivers
+* Review of project goals and success criteria
+* Identification of key stakeholders
+* Initial risk and dependency review
+* Collection of required technical information
+
+The objective of this phase is to establish a clear understanding of the current state and the expected outcome.
+
+---
+
+## 9.2 Assess
+
+The assessment phase validates whether the environment is ready for the proposed service or project.
+
+Typical activities may include:
+
+* Version and compatibility review
+* Hardware readiness review
+* Licensing assumption review
+* Network prerequisite review
+* DNS, NTP, certificate, and identity prerequisite review
+* vSphere, vSAN, NSX, or VCF health review
+* Upgrade or migration readiness analysis
+* Identification of technical gaps
+* Risk classification and prioritization
+
+The objective of this phase is to identify issues early, reduce delivery risk, and confirm whether remediation is required before implementation.
+
+---
+
+## 9.3 Design
+
+The design phase defines the target architecture and the technical approach required to deliver the expected outcome.
+
+Typical activities may include:
+
+* High-level architecture definition
+* Low-level technical design
+* Workload domain planning
+* vSphere, vSAN, and NSX design
+* Security and segmentation design
+* Lifecycle management design
+* Automation and operations design
+* Disaster recovery or migration design
+* Validation of assumptions and constraints
+* Design review with partner and customer stakeholders
+
+The objective of this phase is to create a clear and approved technical blueprint before implementation begins.
+
+---
+
+## 9.4 Plan
+
+The planning phase translates the approved design into an executable delivery plan.
+
+Typical activities may include:
+
+* Implementation planning
+* Deployment sequencing
+* Change window planning
+* Migration or upgrade planning
+* Rollback planning
+* Resource alignment
+* Risk and issue review
+* Prerequisite tracking
+* Validation checklist preparation
+* Partner and customer responsibility alignment
+
+The objective of this phase is to ensure that all required people, access, systems, prerequisites, and approvals are ready before execution.
+
+---
+
+## 9.5 Deploy and Configure
+
+The deployment phase includes the implementation, configuration, upgrade, migration, or remediation activities defined in the agreed scope.
+
+Typical activities may include:
+
+* VMware Cloud Foundation deployment
+* Workload domain implementation
+* vSphere configuration
+* vSAN configuration
+* NSX configuration
+* VCF Operations integration
+* VCF Automation setup
+* VKS enablement
+* VMware Live Recovery / SRM implementation
+* HCX enablement
+* NSX ALB / AVI deployment
+* vDefend Firewall starter implementation
+* Upgrade execution
+* Migration support
+* Stabilization or remediation activities
+
+The objective of this phase is to deliver the agreed technical scope according to the approved design and implementation plan.
+
+---
+
+## 9.6 Validate
+
+The validation phase confirms that the delivered components are operating as expected and that the agreed success criteria have been met.
+
+Typical activities may include:
+
+* Post-deployment validation
+* Health checks
+* Connectivity validation
+* Cluster and workload domain validation
+* vSAN health validation
+* NSX routing and connectivity validation
+* Lifecycle management validation
+* Automation or operations validation
+* DR or migration validation, when applicable
+* Review of known issues or remaining risks
+
+The objective of this phase is to confirm technical completion and identify any remaining items before handover.
+
+---
+
+## 9.7 Document
+
+The documentation phase provides a record of the delivered solution, configuration, findings, and recommendations.
+
+Depending on the engagement scope, documentation may include:
+
+* Technical findings report
+* Readiness report
+* High-level design
+* Low-level design
+* Implementation runbook
+* Validation checklist
+* As-built documentation
+* Risk and issue summary
+* Operational recommendations
+* Handover notes
+
+The objective of this phase is to support operational continuity and give the partner and customer a clear reference for the delivered work.
+
+---
+
+## 9.8 Transfer Knowledge
+
+The knowledge transfer phase helps the partner and/or customer understand the delivered solution and how to operate it after project completion.
+
+Typical activities may include:
+
+* Technical handover session
+* Review of architecture and design decisions
+* Review of implemented components
+* Review of operational considerations
+* Review of validation results
+* Review of documentation
+* Q&A session with technical teams
+* Recommendations for next steps
+
+The objective of this phase is to reduce dependency on the implementation team and improve operational confidence.
+
+---
+
+## 9.9 Hypercare and Stabilization
+
+Some fixed-price bundles may include a limited hypercare period after delivery. Hypercare is intended to support stabilization and clarify items related to the agreed scope.
+
+Typical activities may include:
+
+* Follow-up technical questions
+* Issue triage related to delivered scope
+* Minor configuration review
+* Clarification of documentation
+* Validation support
+* Handover support
+
+Hypercare is not a replacement for managed services, 24x7 support, or long-term operations. Any additional work outside the agreed scope may be handled through hourly services, Expert Bank hours, or a separate engagement.
+
+---
+
+## 9.10 Delivery Governance
+
+Klaud uses lightweight delivery governance to keep the engagement aligned, transparent, and controlled.
+
+Depending on the engagement, this may include:
+
+* Kickoff meeting
+* Defined technical contacts
+* Scope confirmation
+* Milestone tracking
+* Risk and issue tracking
+* Regular status updates
+* Change control
+* Deliverable review
+* Closure confirmation
+
+The partner remains responsible for the overall customer relationship, commercial governance, and customer-facing project ownership unless otherwise agreed.
+
+---
+
+## 9.11 Methodology Summary
+
+Klaud’s delivery methodology can be summarized as:
+
+| Phase                  | Purpose                                     | Typical Output                               |
+| ---------------------- | ------------------------------------------- | -------------------------------------------- |
+| **Discover**           | Understand the current state and objectives | Discovery notes, requirements, initial risks |
+| **Assess**             | Validate readiness and identify gaps        | Readiness findings, risk register            |
+| **Design**             | Define the target architecture              | HLD, LLD, design decisions                   |
+| **Plan**               | Prepare for execution                       | Implementation plan, runbook, rollback plan  |
+| **Deploy / Configure** | Deliver the agreed technical scope          | Implemented solution                         |
+| **Validate**           | Confirm successful delivery                 | Validation checklist, health checks          |
+| **Document**           | Record what was delivered                   | As-built documentation, findings report      |
+| **Transfer Knowledge** | Enable partner/customer teams               | Handover session, Q&A                        |
+| **Hypercare**          | Support early stabilization                 | Follow-up support within agreed scope        |
+
+This methodology allows Klaud to deliver complex VMware and private cloud services in a structured, repeatable, and partner-friendly way while maintaining flexibility for different project types and customer environments.

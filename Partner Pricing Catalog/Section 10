@@ -1,0 +1,238 @@
+# 10. Project Assumptions and Partner Responsibilities
+
+Successful delivery depends on clear responsibilities, timely access, accurate information, and readiness from both the partner and the end customer. This section defines the general assumptions Klaud uses when pricing and delivering professional services.
+
+Unless otherwise agreed in a statement of work, the assumptions and responsibilities below apply to all engagement models, especially fixed-price service bundles.
+
+---
+
+## 10.1 General Project Assumptions
+
+Klaud’s pricing and delivery estimates assume that:
+
+* The project scope has been reviewed and validated before delivery begins.
+* The customer environment is accessible and ready for the agreed activities.
+* Required licenses, subscriptions, hardware, and software are available.
+* The partner and/or customer will provide accurate technical information.
+* Required stakeholders will be available for discovery, design, review, approval, and change windows.
+* Prerequisites will be completed before implementation activities begin.
+* Work will be delivered remotely unless onsite delivery is specifically included.
+* Activities will be performed during standard business hours unless after-hours work is agreed.
+* Any scope changes, delays, or missing prerequisites may affect pricing, timeline, and delivery commitments.
+
+Fixed-price pricing assumes that the environment matches the agreed scope and complexity level. If the environment is materially different from the information provided during discovery, Klaud may recommend a scope adjustment, change order, or alternate engagement model.
+
+---
+
+## 10.2 Partner Responsibilities
+
+Unless otherwise agreed, the partner is responsible for managing the commercial and customer-facing aspects of the engagement.
+
+This includes:
+
+* Owning the end-customer relationship
+* Managing the customer contract
+* Defining final resale pricing and margin
+* Managing the customer proposal and commercial terms
+* Coordinating customer communications
+* Coordinating access to customer stakeholders
+* Confirming project scope with the customer
+* Managing customer expectations
+* Ensuring the customer understands prerequisites and responsibilities
+* Coordinating project timelines and change windows
+* Providing a primary point of contact for Klaud
+* Reviewing and approving Klaud deliverables in a timely manner
+* Communicating project risks, delays, or changes to the customer when required
+
+The partner is also responsible for ensuring that Klaud is engaged early enough to properly assess scope, risk, and delivery requirements before commitments are made to the end customer.
+
+---
+
+## 10.3 Customer Responsibilities
+
+The customer is responsible for providing the access, infrastructure readiness, approvals, and technical participation required to deliver the agreed services.
+
+This includes:
+
+* Providing access to required systems and management interfaces
+* Providing VPN, remote access, bastion host, or approved access method
+* Providing administrative credentials where required
+* Ensuring required licenses and entitlements are available
+* Ensuring hardware is installed, powered, supported, and ready
+* Ensuring firmware, drivers, and compatibility requirements are addressed
+* Providing IP addressing, VLANs, routing details, DNS, NTP, and certificate information
+* Implementing required firewall rules and network changes
+* Providing access to Active Directory, identity services, PKI, and related systems where required
+* Providing technical subject matter experts
+* Providing change windows and maintenance approvals
+* Participating in design and validation reviews
+* Reviewing and approving technical decisions in a timely manner
+* Performing application or business-level testing when required
+* Providing sign-off for completed deliverables
+
+Delays in customer readiness, approvals, access, or prerequisite completion may affect the delivery schedule and may require a change order or additional services.
+
+---
+
+## 10.4 Technical Prerequisites
+
+Depending on the engagement, the following prerequisites may be required before implementation begins.
+
+### Infrastructure Readiness
+
+* Supported server hardware
+* Supported storage configuration
+* Supported network adapters
+* Compatible firmware and drivers
+* Required rack, power, cabling, and physical connectivity completed
+* Required management access available
+* Required out-of-band management access available, where applicable
+
+### Network Readiness
+
+* IP addressing plan
+* VLANs and port groups
+* Routing design
+* Firewall rules
+* MTU requirements
+* BGP, OSPF, or static routing information where applicable
+* Load balancing requirements where applicable
+* Connectivity between required sites, zones, or networks
+
+### Core Services Readiness
+
+* DNS records
+* NTP sources
+* Certificate authority or certificate process
+* Active Directory or identity source information
+* SMTP relay, where required
+* Proxy details, where required
+* Internet or depot access, where required
+* Offline depot process, where required
+
+### VMware Environment Readiness
+
+* Valid VMware/Broadcom licensing
+* Access to required software binaries
+* Supported versions and upgrade paths
+* Existing vCenter, ESXi, vSAN, NSX, or VCF health status
+* Required backups or snapshots, where applicable
+* Lifecycle management prerequisites
+* Compatibility matrix validation
+* Existing environment credentials and documentation
+
+---
+
+## 10.5 Access and Security Assumptions
+
+Klaud assumes that the partner or customer will provide secure and timely access to the required environments.
+
+Access assumptions include:
+
+* Remote access will be available before the scheduled delivery date.
+* Required credentials will be provided through an approved secure method.
+* Access will remain available during scheduled delivery windows.
+* Customer security policies will allow the agreed delivery activities.
+* Required approvals will be completed before change windows.
+* Klaud will not be responsible for delays caused by access restrictions, expired credentials, missing approvals, or blocked connectivity.
+
+If the customer requires special access procedures, security clearances, jump hosts, monitored sessions, or restricted working hours, these requirements must be disclosed before pricing and scheduling are finalized.
+
+---
+
+## 10.6 Scheduling and Availability Assumptions
+
+Klaud’s standard delivery model assumes business-hours delivery and reasonable scheduling notice.
+
+Unless otherwise agreed:
+
+* Work is scheduled based on Klaud resource availability.
+* Delivery is remote-first.
+* After-hours or weekend work must be agreed in advance.
+* Emergency work may be subject to premium rates or hour multipliers.
+* Customer change windows must be confirmed before implementation activities.
+* Delays caused by customer or partner availability may affect the project schedule.
+* Rescheduling may be required if prerequisites are not completed before the agreed delivery window.
+
+For fixed-price engagements, repeated delays, cancelled change windows, or extended inactivity may require timeline adjustment, revalidation of scope, or additional charges.
+
+---
+
+## 10.7 Review and Approval Responsibilities
+
+Timely review and approval are required to keep projects moving.
+
+The partner and/or customer are responsible for reviewing and approving:
+
+* Discovery findings
+* Technical assumptions
+* Architecture decisions
+* High-level and low-level designs
+* Implementation plans
+* Change windows
+* Risk and issue decisions
+* Validation results
+* Deliverables and closure documentation
+
+Unless otherwise agreed, deliverables are considered accepted if no written feedback is provided within the review period defined in the statement of work.
+
+---
+
+## 10.8 Risk, Issue, and Dependency Management
+
+Klaud will identify and communicate technical risks, issues, and dependencies related to the agreed scope. However, some risks and dependencies require action from the partner, customer, vendor, or third-party provider.
+
+These may include:
+
+* Hardware issues
+* Licensing or entitlement issues
+* Unsupported versions
+* Missing prerequisites
+* Network or firewall restrictions
+* Customer change approval delays
+* Third-party platform dependencies
+* Vendor support cases
+* Application owner availability
+* Internal customer process delays
+
+The partner and customer are responsible for helping resolve risks and dependencies that fall outside Klaud’s direct control.
+
+---
+
+## 10.9 Fixed-Price Engagement Assumptions
+
+For fixed-price service bundles, Klaud’s pricing assumes that:
+
+* The scope is clearly defined and approved before delivery begins.
+* The customer environment matches the assumptions used for pricing.
+* Required prerequisites are completed before implementation.
+* The partner and customer provide timely access and approvals.
+* No major design changes are introduced after scope approval.
+* No additional workload domains, sites, integrations, or advanced features are added without a change order.
+* Delays caused by the partner or customer do not materially extend the engagement.
+
+If these assumptions are not met, Klaud may recommend one of the following:
+
+* Scope adjustment
+* Timeline adjustment
+* Change order
+* Additional fixed-price add-on
+* Expert Bank hour consumption
+* Conversion to hourly services for undefined or open-ended work
+
+---
+
+## 10.10 Partner Enablement Assumption
+
+Klaud’s services are designed to strengthen the partner’s delivery capability, not replace the partner’s commercial role.
+
+The partner is expected to remain actively involved in:
+
+* Customer communication
+* Opportunity management
+* Project coordination
+* Commercial decisions
+* Customer expectation management
+* Internal escalation when needed
+
+Klaud provides the specialist technical expertise required to help the partner win, deliver, and expand advanced VMware and private cloud opportunities.

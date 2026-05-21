@@ -1,0 +1,230 @@
+# 14. How to Engage Klaud
+
+Klaud’s engagement process is designed to make it easy for partners to access specialized VMware Cloud Foundation and private cloud expertise while maintaining clear scope, pricing, responsibilities, and delivery expectations.
+
+The process may vary depending on the opportunity, but most engagements follow the steps below.
+
+---
+
+## 14.1 Step 1 — Opportunity Qualification
+
+The engagement begins when the partner identifies a customer opportunity, technical requirement, project risk, or support need where Klaud’s expertise may be required.
+
+At this stage, the partner typically shares high-level information such as:
+
+* Customer name or opportunity reference
+* Business objective
+* Technology area involved
+* Current environment summary
+* Expected project scope
+* Estimated timeline
+* Commercial status of the opportunity
+* Any known risks or constraints
+
+The objective is to determine whether Klaud is the right fit and which engagement model may be most appropriate.
+
+---
+
+## 14.2 Step 2 — Initial Technical Discussion
+
+Klaud and the partner hold an initial technical discussion to better understand the opportunity and define the next step.
+
+This discussion may include:
+
+* Review of the customer’s current environment
+* Review of technical goals
+* Review of known challenges
+* Identification of missing information
+* Preliminary scope classification
+* Initial risk identification
+* Recommendation of the best pricing model
+
+Depending on the maturity of the opportunity, this may lead to hourly support, a discovery bundle, a fixed-price service bundle, or an Expert Bank plan.
+
+---
+
+## 14.3 Step 3 — Select the Engagement Model
+
+Based on the opportunity, Klaud and the partner select the most appropriate commercial model.
+
+| Situation                                                         | Recommended Engagement Model                     |
+| ----------------------------------------------------------------- | ------------------------------------------------ |
+| The scope is small, urgent, exploratory, or undefined             | On-Demand Hourly Services                        |
+| The scope is clear and project-based                              | Fixed-Price Service Bundle                       |
+| The partner expects recurring needs across multiple opportunities | Partner Expert Capacity Plan                     |
+| The customer environment requires validation before pricing       | Discovery or Readiness Bundle                    |
+| The project is unstable, delayed, or requires rescue support      | Hourly Services or Rescue / Stabilization Sprint |
+
+The selected model should align with the level of scope clarity, project risk, timeline, and partner commercial strategy.
+
+---
+
+## 14.4 Step 4 — Scope and Assumption Validation
+
+Before final pricing or delivery commitment, Klaud validates the scope, assumptions, and project conditions.
+
+This may include reviewing:
+
+* Environment size and complexity
+* Number of workload domains
+* Number of sites
+* VMware versions and compatibility
+* Hardware readiness
+* Network prerequisites
+* Security requirements
+* Migration or upgrade complexity
+* Required integrations
+* Change window limitations
+* Documentation expectations
+* Customer and partner responsibilities
+
+For fixed-price engagements, this step is especially important. Pricing is based on the agreed scope and assumptions, and any material change may require a revised proposal or change order.
+
+---
+
+## 14.5 Step 5 — Commercial Confirmation
+
+Once scope and assumptions are validated, Klaud provides the partner with the required commercial details.
+
+This may include:
+
+* Pricing model
+* Partner net pricing
+* Scope summary
+* Deliverables
+* Exclusions
+* Assumptions
+* Estimated timeline
+* Payment terms
+* Validity period
+* Change order conditions
+
+The partner may then include Klaud’s services in their own customer-facing proposal, with their own margin, commercial terms, and customer relationship model.
+
+---
+
+## 14.6 Step 6 — Statement of Work or Service Authorization
+
+Before delivery begins, the engagement must be approved through a statement of work, purchase order, service authorization, or other agreed written approval.
+
+The approval should confirm:
+
+* Selected service or pricing model
+* Agreed scope
+* Deliverables
+* Pricing
+* Delivery timeline
+* Key assumptions
+* Partner and customer responsibilities
+* Payment terms
+* Change order process
+* Authorized contacts
+
+Klaud will not begin delivery until the required commercial and operational approvals are in place.
+
+---
+
+## 14.7 Step 7 — Delivery Kickoff
+
+After approval, Klaud schedules a kickoff session with the partner and, when appropriate, the customer.
+
+The kickoff is used to confirm:
+
+* Project objectives
+* Scope and deliverables
+* Roles and responsibilities
+* Technical contacts
+* Communication channels
+* Access requirements
+* Prerequisites
+* Timeline and milestones
+* Risks and dependencies
+* Next steps
+
+The kickoff ensures that all parties are aligned before technical delivery begins.
+
+---
+
+## 14.8 Step 8 — Delivery Execution
+
+Klaud delivers the agreed services according to the selected engagement model, approved scope, and delivery plan.
+
+Delivery may include:
+
+* Discovery
+* Assessment
+* Architecture and design
+* Implementation
+* Upgrade or migration support
+* Troubleshooting
+* Validation
+* Documentation
+* Knowledge transfer
+* Hypercare or stabilization support, when included
+
+Progress is managed through agreed communication channels, status updates, milestone reviews, and risk or issue tracking.
+
+---
+
+## 14.9 Step 9 — Handover and Closure
+
+At the end of the engagement, Klaud completes the agreed handover and closure activities.
+
+This may include:
+
+* Review of completed work
+* Review of validation results
+* Delivery of documentation
+* Knowledge transfer session
+* Review of open risks or recommendations
+* Confirmation of remaining action items
+* Closure confirmation with the partner
+
+For fixed-price bundles, closure is based on completion of the agreed deliverables and validation activities. For Expert Bank or hourly services, closure may be based on hour consumption, task completion, or the end of the agreed support period.
+
+---
+
+## 14.10 Engagement Request Information
+
+To help Klaud assess a new opportunity efficiently, partners should provide as much of the following information as possible:
+
+| Information Needed           | Description                                                          |
+| ---------------------------- | -------------------------------------------------------------------- |
+| Customer or opportunity name | Internal reference for tracking                                      |
+| Technology area              | VCF, vSphere, vSAN, NSX, VKS, VCF Automation, DR, migration, etc.    |
+| Current environment          | Existing platform, versions, number of sites, known architecture     |
+| Desired outcome              | What the customer wants to achieve                                   |
+| Timeline                     | Target dates, deadlines, change windows                              |
+| Commercial stage             | Pre-sales, proposal, sold project, active delivery, rescue situation |
+| Required Klaud role          | White-label, co-delivery, named specialist, advisory only            |
+| Known risks                  | Technical, commercial, timeline, access, customer readiness          |
+| Preferred pricing model      | Hourly, fixed-price bundle, or Expert Bank                           |
+| Customer-facing involvement  | Whether Klaud will join customer meetings or work behind the scenes  |
+
+Providing this information early helps Klaud recommend the correct model, avoid under-scoping, and support the partner more effectively.
+
+---
+
+## 14.11 Engagement Path Summary
+
+| Step                             | Purpose                            | Output                         |
+| -------------------------------- | ---------------------------------- | ------------------------------ |
+| **1. Opportunity Qualification** | Understand the partner need        | Initial opportunity fit        |
+| **2. Technical Discussion**      | Review scope and risks             | Recommended next step          |
+| **3. Model Selection**           | Choose commercial structure        | Hourly, bundle, or Expert Bank |
+| **4. Scope Validation**          | Confirm assumptions and complexity | Validated scope                |
+| **5. Commercial Confirmation**   | Confirm pricing and terms          | Partner-ready pricing          |
+| **6. Service Authorization**     | Approve the engagement             | SOW, PO, or written approval   |
+| **7. Delivery Kickoff**          | Align all parties                  | Delivery plan                  |
+| **8. Delivery Execution**        | Complete agreed work               | Delivered services             |
+| **9. Handover and Closure**      | Transfer knowledge and close       | Documentation, KT, closure     |
+
+---
+
+## 14.12 Contact and Next Steps
+
+Partners interested in engaging Klaud should contact the Klaud team with the relevant opportunity details and preferred engagement model.
+
+Klaud will review the request, recommend the appropriate next step, and help the partner define the most suitable commercial and technical approach for the opportunity.
+
+For urgent, time-sensitive, or rescue scenarios, partners should clearly indicate the urgency, customer impact, required timeline, and whether after-hours or emergency support may be required.

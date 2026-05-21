@@ -1,0 +1,148 @@
+# Appendix — Quick Reference Rate Card
+
+This appendix provides a simplified reference of Klaud’s partner net pricing. It is intended for quick internal review, opportunity estimation, and proposal planning.
+
+All prices are in **USD** and are intended for **qualified partners only**. This rate card is not intended to be shared directly with end customers.
+
+Final pricing is subject to technical validation, customer environment complexity, delivery assumptions, resource availability, and agreed scope.
+
+---
+
+## 17.1 On-Demand Hourly Services
+
+| Service Type                               |                 Partner Net Rate |
+| ------------------------------------------ | -------------------------------: |
+| Standard Senior VMware Consulting          |                    **$165/hour** |
+| Principal Architect / Advanced Specialist  |                    **$195/hour** |
+| Emergency, After-Hours, or Weekend Support |                    **$260/hour** |
+| Onsite Consulting Day Rate                 | **$1,850/day + travel expenses** |
+
+**Minimum engagement:** 10 hours
+**Billing increment:** 4-hour blocks after minimum engagement
+**Delivery model:** Remote by default
+**Availability:** Best effort, subject to resource availability
+
+---
+
+## 17.2 Discovery and Readiness Bundles
+
+| Bundle                           | Partner Net Price |
+| -------------------------------- | ----------------: |
+| VCF Readiness Assessment         |        **$6,500** |
+| VCF Architecture Workshop        |        **$9,500** |
+| VCF Upgrade Readiness Assessment |        **$8,500** |
+| NSX / vSAN / VKS Health Check    |        **$7,500** |
+
+---
+
+## 17.3 VCF Design and Deployment Bundles
+
+| Bundle                                         |                        Partner Net Price |
+| ---------------------------------------------- | ---------------------------------------: |
+| VCF Design & Deploy — Standard Workload Domain |                              **$42,000** |
+| VCF Design & Deploy — Advanced Workload Domain |                              **$58,000** |
+| VCF Design & Deploy — Complex Workload Domain  |                              **$78,000** |
+| Additional Workload Domain                     | **Subject to scope; discount may apply** |
+
+---
+
+## 17.4 VCF Upgrade, Migration, and Stabilization Bundles
+
+| Bundle                                         |             Partner Net Price |
+| ---------------------------------------------- | ----------------------------: |
+| VCF Upgrade — Standard Workload Domain         |                   **$28,000** |
+| VCF Upgrade — Advanced Workload Domain         |                   **$42,000** |
+| VCF Migration / Re-platforming Workload Domain |                   **$52,000** |
+| Rescue / Stabilization Sprint                  | **$18,000 per 2-week sprint** |
+
+---
+
+## 17.5 Add-On Services
+
+| Add-On Service                               | Partner Net Price |
+| -------------------------------------------- | ----------------: |
+| VCF Automation Foundation                    |       **$22,000** |
+| VKS / Kubernetes Enablement                  |       **$24,000** |
+| vSAN Stretched Cluster                       |       **$24,000** |
+| NSX Federation / Multi-Site NSX              |       **$34,000** |
+| NSX ALB / AVI Load Balancer                  |       **$22,000** |
+| vDefend Firewall / Microsegmentation Starter |       **$30,000** |
+| VMware Live Recovery / SRM                   |       **$22,000** |
+| HCX Migration Enablement                     |       **$16,000** |
+| VCF Operations Dashboards & Alerting         |       **$14,000** |
+| PKI, Identity & Hardening Pack               |       **$12,000** |
+| Offline Depot / Disconnected Lifecycle Pack  |       **$12,000** |
+| Additional Knowledge Transfer Workshop       |        **$5,000** |
+
+---
+
+## 17.6 Partner Expert Capacity Plans
+
+| Plan            | Included Hours |  Validity | Partner Net Price | Effective Rate |
+| --------------- | -------------: | --------: | ----------------: | -------------: |
+| Expert Bank 80  |       80 hours |  6 months |       **$12,000** |      $150/hour |
+| Expert Bank 160 |      160 hours |  6 months |       **$22,400** |      $140/hour |
+| Expert Bank 320 |      320 hours | 12 months |       **$41,600** |      $130/hour |
+| Expert Bank 480 |      480 hours | 12 months |       **$60,000** |      $125/hour |
+
+---
+
+## 17.7 Expert Bank Consumption Rules
+
+| Item                         | Rule                                                  |
+| ---------------------------- | ----------------------------------------------------- |
+| Standard delivery            | Business hours, remote delivery                       |
+| After-hours support          | Consumes hours at 1.5x                                |
+| Weekend or emergency support | Consumes hours at 2x                                  |
+| Onsite work                  | Minimum 10 hours per onsite day, plus travel expenses |
+| Unused hours                 | Expire at the end of the validity period              |
+| Rollover                     | Up to 15% may roll over if renewed before expiry      |
+| Priority access              | Included for Expert Bank 320 and Expert Bank 480      |
+
+---
+
+## 17.8 Bundle Discount Guidelines
+
+| Scenario                           |               Maximum Discount |
+| ---------------------------------- | -----------------------------: |
+| 1 add-on                           |                             0% |
+| 2 add-ons                          |                             5% |
+| 3 add-ons                          |                             8% |
+| 4 or more add-ons                  |                            10% |
+| Strategic partner annual agreement | Up to 12%, subject to approval |
+
+Discounts are not automatic and must be approved as part of the final commercial proposal.
+
+---
+
+## 17.9 Recommended Use by Scenario
+
+| Scenario                                                                         | Recommended Model                                |
+| -------------------------------------------------------------------------------- | ------------------------------------------------ |
+| Small task, technical question, or short advisory request                        | On-Demand Hourly Services                        |
+| New partner wants to test Klaud’s expertise                                      | On-Demand Hourly Services                        |
+| Partner needs help qualifying an opportunity                                     | On-Demand Hourly Services or Expert Bank         |
+| Partner needs predictable pricing for a customer proposal                        | Fixed-Price Service Bundle                       |
+| Customer requires VCF design and deployment                                      | Fixed-Price Service Bundle                       |
+| Customer requires upgrade, migration, or re-platforming                          | Fixed-Price Service Bundle                       |
+| Customer requires advanced services such as VKS, NSX Federation, vDefend, or SRM | Fixed-Price Add-On                               |
+| Partner has recurring VMware opportunities                                       | Partner Expert Capacity Plan                     |
+| Partner needs urgent project rescue or escalation                                | Hourly Services or Rescue / Stabilization Sprint |
+| Partner wants ongoing access to senior VMware expertise                          | Partner Expert Capacity Plan                     |
+
+---
+
+## 17.10 Pricing Notes
+
+Unless otherwise stated:
+
+* Prices are listed in **USD**.
+* Prices exclude taxes.
+* Prices exclude travel and onsite expenses.
+* Remote delivery is assumed.
+* Pricing is subject to scope validation.
+* Services are subject to Klaud resource availability.
+* Fixed-price bundles apply only to agreed scope and assumptions.
+* Out-of-scope work may require a change order, hourly billing, or Expert Bank consumption.
+* Partner net pricing is confidential.
+* This rate card is not intended for end-customer distribution.

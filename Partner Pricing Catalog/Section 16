@@ -1,0 +1,381 @@
+# 16. Terms, Validity and Notes
+
+This section defines the general commercial terms, pricing validity, and important notes that apply to Klaud’s partner services. These terms are intended to provide clarity for partners when using this catalog for internal costing, proposal preparation, and engagement planning.
+
+Specific terms may vary depending on the final statement of work, purchase order, partner agreement, or other written commercial arrangement between Klaud and the partner.
+
+---
+
+## 16.1 Partner Net Pricing
+
+All pricing in this catalog is provided as **partner net pricing**.
+
+This means:
+
+* Prices are intended for qualified partners only.
+* Prices are not intended to be shared directly with end customers.
+* Partners may apply their own resale margin.
+* Partners are responsible for defining customer-facing pricing.
+* Partners are responsible for their own commercial terms with the end customer.
+* Klaud’s pricing does not include partner markup, taxes, or customer-facing commercial adjustments.
+
+Unless otherwise agreed, the partner owns the commercial relationship with the end customer.
+
+---
+
+## 16.2 Currency
+
+All prices are listed in **United States Dollars (USD)** unless otherwise stated in writing.
+
+If pricing is required in another currency, exchange rate treatment must be agreed before commercial approval. Currency conversion, banking fees, tax implications, and foreign exchange risk are the responsibility of the partner unless otherwise agreed.
+
+---
+
+## 16.3 Pricing Validity
+
+Pricing in this catalog is valid for the period stated on the document cover or commercial proposal.
+
+Unless otherwise stated:
+
+* Catalog pricing is subject to periodic review.
+* Pricing may change based on market conditions, product changes, delivery complexity, or resource availability.
+* Quoted pricing for a specific opportunity is valid only for the period stated in the proposal or statement of work.
+* If a proposal expires, pricing and availability may need to be revalidated.
+
+Recommended wording for the document footer or cover:
+
+> Pricing valid through December 31, 2026, unless replaced by a newer version or superseded by a signed agreement.
+
+---
+
+## 16.4 Taxes
+
+All prices are exclusive of applicable taxes, duties, withholdings, levies, or government charges.
+
+The partner is responsible for:
+
+* Applicable local taxes
+* Withholding taxes
+* VAT, GST, sales tax, or equivalent taxes
+* Banking fees
+* Cross-border payment charges
+* Any tax obligations related to the partner’s resale to the end customer
+
+If withholding tax applies in a specific country, the partner must disclose this before commercial approval so the commercial impact can be reviewed.
+
+---
+
+## 16.5 Payment Terms
+
+Payment terms must be confirmed in the applicable proposal, statement of work, purchase order, or partner agreement.
+
+Unless otherwise agreed:
+
+* New partners may be required to prepay services.
+* On-demand hourly services may require prepaid hour blocks.
+* Fixed-price bundles may require milestone-based billing.
+* Expert Bank plans are prepaid.
+* Travel and onsite expenses may require pre-approval or reimbursement.
+* Late payments may result in paused delivery or delayed scheduling.
+
+Recommended default structure:
+
+| Engagement Type               | Recommended Payment Structure                                       |
+| ----------------------------- | ------------------------------------------------------------------- |
+| On-Demand Hourly Services     | Prepaid or approved partner terms                                   |
+| Fixed-Price Service Bundles   | 50% at approval, 40% at implementation milestone, 10% at completion |
+| Discovery / Readiness Bundles | 100% upfront or 50% upfront / 50% on delivery                       |
+| Expert Bank Plans             | 100% upfront                                                        |
+| Emergency / Rescue Support    | Prepaid or immediate written approval                               |
+
+---
+
+## 16.6 Travel and Onsite Expenses
+
+Klaud’s standard pricing assumes remote delivery.
+
+Unless explicitly included, pricing excludes:
+
+* Flights
+* Ground transportation
+* Hotel accommodation
+* Meals
+* Per diem
+* Travel time
+* Visas or travel documentation
+* Local transportation
+* Customer site access costs
+* Other travel-related expenses
+
+Onsite work must be agreed in advance and may require:
+
+* Minimum onsite day commitment
+* Travel expense approval
+* Site access arrangements
+* Security or visitor clearance
+* Customer-provided workspace and connectivity
+
+Travel expenses may be billed at cost or according to a pre-agreed travel policy.
+
+---
+
+## 16.7 Resource Availability
+
+All services are subject to Klaud resource availability.
+
+Klaud will make reasonable efforts to support partner timelines; however, availability depends on:
+
+* Current project commitments
+* Required skill set
+* Project urgency
+* Notice period
+* Complexity of the request
+* Required delivery window
+* After-hours or onsite requirements
+
+For time-sensitive engagements, partners should involve Klaud as early as possible to improve scheduling, pricing accuracy, and delivery feasibility.
+
+---
+
+## 16.8 Remote Delivery Assumption
+
+Unless otherwise stated, all services are priced and planned for remote delivery.
+
+Remote delivery assumes that the partner or customer provides:
+
+* Secure remote access
+* Required credentials
+* Communication channels
+* Access approvals
+* Technical contacts
+* Screen-sharing or collaboration tools
+* Required documentation and environment information
+
+If remote access is restricted, delayed, or unavailable, project timelines and pricing may be affected.
+
+---
+
+## 16.9 Scope Validation
+
+All pricing is subject to scope validation.
+
+Pricing may be adjusted if:
+
+* The environment is larger or more complex than originally described.
+* Additional workload domains, sites, integrations, or products are added.
+* The customer environment is not ready.
+* Required prerequisites are missing.
+* Unsupported versions or hardware are identified.
+* Security, compliance, or documentation requirements are higher than expected.
+* The timeline is compressed or requires after-hours delivery.
+* The work requires onsite presence.
+* The original assumptions are materially incorrect.
+
+Fixed-price services are fixed only for the agreed scope, assumptions, deliverables, and timeline.
+
+---
+
+## 16.10 Change Orders
+
+Any work outside the agreed scope may require a change order, additional hourly billing, Expert Bank hour consumption, or a revised statement of work.
+
+Change orders may apply to:
+
+* Additional scope
+* Additional deliverables
+* Additional sites or workload domains
+* Major design changes
+* New advanced features
+* Missing prerequisites
+* Extended timelines caused by partner or customer delays
+* Emergency or after-hours work
+* Onsite delivery
+* Rescue or remediation work not included in the original scope
+
+Klaud will not proceed with out-of-scope work without partner approval.
+
+---
+
+## 16.11 Confidentiality
+
+This catalog contains partner pricing and commercial information intended for qualified partners only.
+
+Unless otherwise agreed in writing:
+
+* This document should not be shared with end customers.
+* Partner net pricing should not be disclosed to end customers.
+* Pricing should not be published publicly.
+* The partner is responsible for protecting Klaud’s confidential commercial information.
+* Klaud will treat partner and customer information as confidential.
+
+A separate non-disclosure agreement may be required for sensitive opportunities.
+
+---
+
+## 16.12 White-Label and Co-Branded Delivery
+
+Klaud may support partners under different delivery models, including:
+
+* White-label delivery
+* Co-branded delivery
+* Named specialist delivery
+
+The selected model must be agreed before customer-facing activities begin.
+
+For white-label engagements:
+
+* Klaud works as an extension of the partner’s team.
+* The partner owns customer communication.
+* Klaud’s direct communication with the customer must be coordinated with the partner.
+* Customer-facing documents may require review before distribution.
+
+For named specialist or co-branded engagements, Klaud’s role, visibility, and communication boundaries should be defined during engagement planning.
+
+---
+
+## 16.13 Intellectual Property and Deliverables
+
+Unless otherwise agreed, Klaud retains ownership of its pre-existing methodologies, templates, tools, frameworks, scripts, internal documentation, and reusable intellectual property.
+
+The partner or customer receives the right to use agreed project deliverables for the specific engagement.
+
+Project deliverables may include:
+
+* Architecture documents
+* Design documents
+* Implementation runbooks
+* As-built documentation
+* Validation checklists
+* Findings reports
+* Knowledge transfer material
+
+Custom ownership terms must be agreed in writing before delivery begins.
+
+---
+
+## 16.14 Vendor Support and Third-Party Dependencies
+
+Klaud provides professional services and specialist consulting, but does not replace official vendor support.
+
+Some issues may require:
+
+* Broadcom / VMware support cases
+* Hardware vendor support
+* Network vendor support
+* Storage vendor support
+* Security vendor support
+* Customer internal escalation
+* Third-party software vendor involvement
+
+Klaud may assist with technical investigation, analysis, and support case preparation, but final resolution may depend on the relevant vendor or third party.
+
+---
+
+## 16.15 Customer Environment Risk
+
+The partner and customer are responsible for ensuring that the customer environment is properly backed up, supported, licensed, and ready before implementation, upgrade, migration, or remediation activities begin.
+
+Klaud may recommend risk mitigation steps, including:
+
+* Backups
+* Snapshots, where appropriate
+* Rollback plans
+* Maintenance windows
+* Vendor support case readiness
+* Health checks
+* Prerequisite validation
+* Change approval
+
+However, the partner and customer remain responsible for operational ownership of the environment.
+
+---
+
+## 16.16 Acceptance of Deliverables
+
+Deliverables should be reviewed by the partner and/or customer within the review period stated in the statement of work.
+
+Unless otherwise agreed:
+
+* Klaud will provide deliverables for review.
+* The partner or customer should provide written feedback within the agreed review period.
+* Klaud will address feedback related to the agreed scope.
+* Deliverables may be considered accepted if no written feedback is received within the review period.
+* New requests outside the agreed scope may require a change order.
+
+---
+
+## 16.17 Expiration of Expert Bank Hours
+
+Partner Expert Capacity Plan hours are valid only during the period associated with the selected plan.
+
+Unless otherwise agreed:
+
+* Unused hours expire at the end of the validity period.
+* Hours are non-refundable.
+* Hours cannot be exchanged for cash or credit.
+* Hours may be used across eligible activities during the validity period.
+* Up to 15% of unused hours may roll over only if the partner renews before expiry.
+* Rollover hours must be consumed within the renewed term.
+
+---
+
+## 16.18 No Guarantee of Outcome Outside Klaud’s Control
+
+Klaud is responsible for delivering the agreed professional services with reasonable skill, care, and technical diligence.
+
+However, Klaud cannot guarantee outcomes that depend on factors outside its control, including:
+
+* Customer environment readiness
+* Hardware compatibility
+* Vendor product defects
+* Licensing or entitlement issues
+* Customer internal approvals
+* Network or firewall restrictions
+* Third-party system behaviour
+* Application compatibility
+* Customer operational decisions
+* Vendor support response times
+
+Klaud will communicate risks and recommendations where identified.
+
+---
+
+## 16.19 Final Statement of Work Requirement
+
+This catalog provides a commercial and service framework. It does not replace a final statement of work, purchase order, or written service authorization.
+
+Before delivery begins, the final commercial document should confirm:
+
+* Selected engagement model
+* Scope
+* Deliverables
+* Pricing
+* Timeline
+* Assumptions
+* Exclusions
+* Partner responsibilities
+* Customer responsibilities
+* Payment terms
+* Change order process
+* Approval process
+
+No service is considered formally committed until written approval is received.
+
+---
+
+## 16.20 General Notes
+
+Unless otherwise stated in writing:
+
+* All prices are in USD.
+* Taxes are excluded.
+* Travel and onsite expenses are excluded.
+* Remote delivery is assumed.
+* Services are subject to resource availability.
+* Pricing is subject to scope validation.
+* Fixed-price bundles apply only to agreed scope.
+* Out-of-scope work requires approval.
+* Emergency support is subject to availability and premium pricing.
+* Partner net pricing is confidential.
+* This document is intended for qualified partners only.
+* This document is not an end-customer-facing price list.

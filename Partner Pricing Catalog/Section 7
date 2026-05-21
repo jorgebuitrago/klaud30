@@ -1,0 +1,339 @@
+# 7. Pricing Models
+
+Klaud offers three pricing models designed to support different partner needs, project stages, and levels of engagement. These models allow partners to access specialized VMware Cloud Foundation and private cloud expertise in a flexible, predictable, and commercially practical way.
+
+All prices listed in this section are **partner net prices** in **USD**. They are intended for qualified partners only and are not designed as end-customer-facing prices. Partners may define their own resale pricing, margin, contractual terms, and customer-facing proposal structure.
+
+Final pricing and scope are subject to technical validation, project complexity, delivery assumptions, and customer environment readiness.
+
+---
+
+## 7.1 Pricing Model Overview
+
+Klaud’s pricing structure is organized into three commercial models:
+
+| Model                                       | Description                                               | Best Used For                                                                                           |
+| ------------------------------------------- | --------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- |
+| **Model 1 — On-Demand Hourly Services**     | Time-and-materials access to Klaud specialists            | Small tasks, pre-sales support, troubleshooting, advisory work, or initial engagements                  |
+| **Model 2 — Fixed-Price Service Bundles**   | Scope-based pricing for defined services and deliverables | VCF deployments, upgrades, migrations, assessments, and technical add-ons                               |
+| **Model 3 — Partner Expert Capacity Plans** | Prepaid expert hours with defined validity                | Partners with recurring project needs, multiple opportunities, or ongoing demand for specialist support |
+
+These models may be used independently or combined depending on the opportunity. For example, a partner may begin with hourly pre-sales support, move into a fixed-price deployment bundle, and later use a Partner Expert Capacity Plan for ongoing design reviews, optimization, or escalation support.
+
+---
+
+## 7.2 Model 1 — On-Demand Hourly Services
+
+The On-Demand Hourly Services model provides flexible access to Klaud’s senior VMware and private cloud specialists on a time-and-materials basis.
+
+This model is useful when the scope is small, exploratory, urgent, or not yet clearly defined. It is also a practical entry point for new partners that want to validate Klaud’s expertise before moving into a fixed-price or prepaid engagement model.
+
+This is the most flexible model, but it is not the recommended model for full project delivery. For larger or well-defined projects, Klaud recommends using Fixed-Price Service Bundles or Partner Expert Capacity Plans.
+
+### 7.2.1 Best Use Cases
+
+On-Demand Hourly Services are best suited for:
+
+* Technical advisory sessions
+* Pre-sales support
+* Opportunity qualification
+* Customer-facing technical calls
+* Design review
+* Bill of materials review
+* Troubleshooting
+* Health check follow-up
+* Upgrade planning support
+* Small configuration tasks
+* Project rescue assessment
+* Second-opinion architecture review
+
+### 7.2.2 Hourly Rates
+
+| Service Type                               |                 Partner Net Rate |
+| ------------------------------------------ | -------------------------------: |
+| Standard senior VMware consulting          |                    **$165/hour** |
+| Principal architect / advanced specialist  |                    **$195/hour** |
+| Emergency, after-hours, or weekend support |                    **$260/hour** |
+| Onsite consulting day rate                 | **$1,850/day + travel expenses** |
+
+### 7.2.3 Commercial Rules
+
+| Item               | Rule                                                                  |
+| ------------------ | --------------------------------------------------------------------- |
+| Minimum engagement | 10 hours                                                              |
+| Billing increments | 4-hour blocks after the minimum engagement                            |
+| Delivery model     | Remote by default                                                     |
+| Onsite delivery    | Available by request and subject to scheduling                        |
+| Travel expenses    | Billed separately                                                     |
+| Availability       | Best effort, subject to resource availability                         |
+| Payment terms      | Prepaid or approved partner terms                                     |
+| After-hours work   | Must be approved in advance unless related to an emergency engagement |
+
+### 7.2.4 Positioning Guidance
+
+This model should be positioned as a flexible entry point, not as the most cost-effective way to deliver full projects.
+
+Recommended partner message:
+
+> On-demand hourly services are available for short-term support, advisory work, troubleshooting, and early-stage technical validation. For defined projects, Klaud recommends fixed-price service bundles to provide clearer scope, predictable pricing, and stronger delivery control.
+
+---
+
+## 7.3 Model 2 — Fixed-Price Service Bundles
+
+The Fixed-Price Service Bundles model provides scope-based pricing for defined professional services. This is Klaud’s recommended model for project delivery because it gives partners predictable pricing, clear deliverables, and a practical way to include Klaud’s services in customer proposals.
+
+Unlike hourly services, fixed-price bundles are not based on the amount of time required to complete the work. They are based on agreed scope, milestones, deliverables, complexity, and project assumptions.
+
+This model is best suited for:
+
+* VCF design and deployment
+* VCF workload domain implementation
+* VCF upgrades
+* VCF migrations
+* Technical assessments
+* Architecture workshops
+* Advanced VMware add-ons
+* Disaster recovery implementation
+* Security and segmentation initiatives
+* Kubernetes enablement
+* Rescue or stabilization projects
+
+Final scope must be validated before project commitment.
+
+---
+
+### 7.3.1 Discovery and Readiness Bundles
+
+These bundles are designed for early-stage opportunities where the partner or customer needs clarity before committing to a larger project.
+
+| Bundle                               | Partner Net Price | Description                                                                                                    |
+| ------------------------------------ | ----------------: | -------------------------------------------------------------------------------------------------------------- |
+| **VCF Readiness Assessment**         |        **$6,500** | Review of the customer’s current environment, prerequisites, risks, and readiness for VCF adoption.            |
+| **VCF Architecture Workshop**        |        **$9,500** | Structured technical workshop to define the target architecture, design direction, and implementation roadmap. |
+| **VCF Upgrade Readiness Assessment** |        **$8,500** | Assessment of upgrade path, compatibility, risks, lifecycle dependencies, and rollback considerations.         |
+| **NSX / vSAN / VKS Health Check**    |        **$7,500** | Specialist assessment of a specific technology area with findings and remediation recommendations.             |
+
+### 7.3.2 Discovery Bundle Deliverables
+
+Depending on the selected bundle, deliverables may include:
+
+* Technical discovery session
+* Current-state review
+* Readiness checklist
+* Risk register
+* High-level recommendations
+* Target-state guidance
+* Prerequisite validation
+* Estimated delivery approach
+* Executive summary
+* Technical findings report
+
+For qualified opportunities, Klaud may apply a portion of a discovery or readiness fee toward a larger fixed-price implementation bundle when the project is approved within a defined period.
+
+---
+
+### 7.3.3 VCF Design and Deployment Bundles
+
+VCF Design and Deployment Bundles are priced per workload domain and are based on the complexity of the customer environment.
+
+| Bundle                                             |                                Partner Net Price | Description                                                                                                                                     |
+| -------------------------------------------------- | -----------------------------------------------: | ----------------------------------------------------------------------------------------------------------------------------------------------- |
+| **VCF Design & Deploy — Standard Workload Domain** |                                      **$42,000** | For standard single-site workload domain deployments with normal networking, storage, identity, and lifecycle requirements.                     |
+| **VCF Design & Deploy — Advanced Workload Domain** |                                      **$58,000** | For environments with additional integrations, more complex NSX/vSAN requirements, custom design needs, or stricter documentation requirements. |
+| **VCF Design & Deploy — Complex Workload Domain**  |                                      **$78,000** | For multi-site, regulated, highly customized, air-gapped, security-sensitive, or migration-dependent environments.                              |
+| **Additional Workload Domain**                     | **Subject to scope; typical discount available** | Applies when additional workload domains are delivered within the same project and share similar architecture assumptions.                      |
+
+### 7.3.4 VCF Design and Deployment Deliverables
+
+Typical deliverables include:
+
+* Technical discovery
+* Prerequisites checklist
+* High-level design
+* Low-level design
+* Deployment plan
+* Implementation runbook
+* Workload domain deployment
+* vSphere, vSAN, and NSX configuration within agreed scope
+* VCF Operations integration where applicable
+* Validation checklist
+* As-built documentation
+* Knowledge transfer session
+* Early-life hypercare period
+
+---
+
+### 7.3.5 VCF Upgrade and Migration Bundles
+
+These bundles support partners delivering lifecycle, modernization, and migration initiatives.
+
+| Bundle                                             |             Partner Net Price | Description                                                                                                               |
+| -------------------------------------------------- | ----------------------------: | ------------------------------------------------------------------------------------------------------------------------- |
+| **VCF Upgrade — Standard Workload Domain**         |                   **$28,000** | For supported upgrade paths in clean environments with normal lifecycle conditions and standard change windows.           |
+| **VCF Upgrade — Advanced Workload Domain**         |                   **$42,000** | For environments with multiple dependencies, NSX/vSAN complexity, stricter rollback planning, or higher operational risk. |
+| **VCF Migration / Re-platforming Workload Domain** |                   **$52,000** | For migration from legacy vSphere, vSAN, or NSX environments into a VCF-aligned target architecture.                      |
+| **Rescue / Stabilization Sprint**                  | **$18,000 per 2-week sprint** | For stalled, failed, unstable, or mis-scoped VCF, NSX, vSAN, or private cloud projects.                                   |
+
+### 7.3.6 Upgrade and Migration Deliverables
+
+Typical deliverables may include:
+
+* Upgrade or migration discovery
+* Compatibility review
+* Risk assessment
+* Upgrade or migration plan
+* Rollback planning
+* Change window planning
+* Execution support
+* Issue remediation guidance
+* Validation
+* As-built updates
+* Knowledge transfer
+* Stabilization recommendations
+
+---
+
+### 7.3.7 Add-On Services
+
+Add-ons are used when the partner or customer requires functionality beyond the standard VCF deployment or upgrade scope.
+
+| Add-On Service                                   | Partner Net Price | Description                                                                                                          |
+| ------------------------------------------------ | ----------------: | -------------------------------------------------------------------------------------------------------------------- |
+| **VCF Automation Foundation**                    |       **$22,000** | Initial automation setup, identity integration, basic catalog structure, governance model, and handover.             |
+| **VKS / Kubernetes Enablement**                  |       **$24,000** | Enablement of VMware Kubernetes Service, platform architecture, access model, validation, and handover.              |
+| **vSAN Stretched Cluster**                       |       **$24,000** | Design and implementation support for stretched vSAN architecture, validation, and operational guidance.             |
+| **NSX Federation / Multi-Site NSX**              |       **$34,000** | Architecture and implementation support for NSX Federation and multi-site networking scenarios.                      |
+| **NSX ALB / AVI Load Balancer**                  |       **$22,000** | Initial deployment, architecture, service engine planning, basic application delivery configuration, and validation. |
+| **vDefend Firewall / Microsegmentation Starter** |       **$30,000** | Security group planning, policy structure, distributed firewall design, pilot policy implementation, and guidance.   |
+| **VMware Live Recovery / SRM**                   |       **$22,000** | Disaster recovery design, recovery plan structure, implementation support, test plan, and validation.                |
+| **HCX Migration Enablement**                     |       **$16,000** | HCX planning, mobility group structure, pilot migration support, and migration guidance.                             |
+| **VCF Operations Dashboards & Alerting**         |       **$14,000** | Operational dashboards, alerting configuration, capacity views, and handover.                                        |
+| **PKI, Identity & Hardening Pack**               |       **$12,000** | Certificate, identity source, and baseline hardening guidance for private cloud environments.                        |
+| **Offline Depot / Disconnected Lifecycle Pack**  |       **$12,000** | Support for disconnected, restricted, or controlled lifecycle management scenarios.                                  |
+| **Additional Knowledge Transfer Workshop**       |        **$5,000** | Additional structured knowledge transfer sessions for partner or customer technical teams.                           |
+
+### 7.3.8 Bundle Discount Logic
+
+Discounts may apply when multiple add-ons are purchased as part of the same project scope.
+
+| Scenario                           |               Maximum Discount |
+| ---------------------------------- | -----------------------------: |
+| 1 add-on                           |                             0% |
+| 2 add-ons                          |                             5% |
+| 3 add-ons                          |                             8% |
+| 4 or more add-ons                  |                            10% |
+| Strategic partner annual agreement | Up to 12%, subject to approval |
+
+Discounts are not automatic and must be approved as part of the final commercial proposal. Discounts apply only to eligible add-on services and do not apply to emergency support, travel expenses, or already-discounted services unless specifically approved.
+
+---
+
+## 7.4 Model 3 — Partner Expert Capacity Plans
+
+Partner Expert Capacity Plans provide prepaid access to Klaud’s senior VMware and private cloud specialists over a defined validity period.
+
+This model is designed for partners that have recurring VMware opportunities, multiple customer environments, or ongoing demand for specialist support but do not want to negotiate a separate statement of work for every activity.
+
+This model gives partners a flexible way to use Klaud’s expertise across different customers, projects, and technical needs.
+
+Klaud may refer to this model commercially as:
+
+# Klaud Expert Bank
+
+### 7.4.1 How Klaud Expert Bank Works
+
+The partner purchases a defined number of expert hours in advance. Those hours can be consumed across eligible activities during the validity period.
+
+This model is suitable for:
+
+* Partners with recurring VMware opportunities
+* Partners building a VMware Cloud Foundation practice
+* Partners that need pre-sales and delivery support
+* Partners that require specialist escalation capacity
+* Partners that want predictable access to senior expertise
+* Partners that prefer not to negotiate each task separately
+
+### 7.4.2 Available Plans
+
+| Plan                | Included Hours |  Validity | Partner Net Price | Effective Hourly Rate |
+| ------------------- | -------------: | --------: | ----------------: | --------------------: |
+| **Expert Bank 80**  |       80 hours |  6 months |       **$12,000** |             $150/hour |
+| **Expert Bank 160** |      160 hours |  6 months |       **$22,400** |             $140/hour |
+| **Expert Bank 320** |      320 hours | 12 months |       **$41,600** |             $130/hour |
+| **Expert Bank 480** |      480 hours | 12 months |       **$60,000** |             $125/hour |
+
+### 7.4.3 Eligible Activities
+
+Expert Bank hours may be used for:
+
+* Pre-sales technical support
+* Technical discovery
+* Architecture workshops
+* Design reviews
+* Bill of materials review
+* Customer-facing technical calls
+* VCF planning
+* NSX, vSAN, VKS, or VCF Automation advisory
+* Upgrade planning
+* Migration planning
+* Troubleshooting
+* Configuration support
+* Documentation review
+* Knowledge transfer
+* Health check follow-up
+* Project rescue support
+* Partner enablement
+
+### 7.4.4 Consumption Rules
+
+| Item                         | Rule                                                                             |
+| ---------------------------- | -------------------------------------------------------------------------------- |
+| Consumption model            | Hours are deducted as services are delivered                                     |
+| Validity                     | Based on selected plan                                                           |
+| Unused hours                 | Expire at the end of the validity period unless renewal terms apply              |
+| Renewal rollover             | Up to 15% of unused hours may roll over if renewed before expiry                 |
+| Standard delivery            | Business hours, remote delivery                                                  |
+| After-hours support          | Consumes hours at 1.5x                                                           |
+| Weekend or emergency support | Consumes hours at 2x                                                             |
+| Onsite work                  | Minimum 10 hours per onsite day, plus travel expenses                            |
+| Scheduling                   | Subject to resource availability                                                 |
+| Priority access              | Included for Expert Bank 320 and Expert Bank 480 plans                           |
+| Transferability              | Hours may be used across multiple partner opportunities, unless otherwise agreed |
+
+### 7.4.5 Positioning Guidance
+
+This model should be positioned as prepaid specialist capacity, not as general support.
+
+Recommended partner message:
+
+> Klaud Expert Bank gives partners flexible access to senior VMware specialists across multiple opportunities, projects, and customer needs. It reduces commercial friction, improves response speed, and allows partners to use expert capacity where it creates the most value.
+
+---
+
+## 7.5 Recommended Model by Scenario
+
+The following table provides general guidance for selecting the most appropriate pricing model.
+
+| Scenario                                                           | Recommended Model                                          |
+| ------------------------------------------------------------------ | ---------------------------------------------------------- |
+| New partner wants to validate Klaud’s expertise                    | On-Demand Hourly Services                                  |
+| Partner needs help with a pre-sales customer meeting               | On-Demand Hourly Services or Expert Bank                   |
+| Partner needs a price to include in a customer proposal            | Fixed-Price Service Bundle                                 |
+| Partner has sold a VCF workload domain deployment                  | Fixed-Price Service Bundle                                 |
+| Partner needs support with an unclear or undefined technical issue | On-Demand Hourly Services                                  |
+| Partner has multiple opportunities in pipeline                     | Expert Bank                                                |
+| Partner wants recurring access to senior VMware expertise          | Expert Bank                                                |
+| Customer requires a VCF readiness assessment                       | Fixed-Price Service Bundle                                 |
+| Customer requires VCF Automation, VKS, NSX Federation, or vDefend  | Fixed-Price Add-On                                         |
+| Partner needs urgent rescue support                                | On-Demand Hourly Services or Rescue / Stabilization Sprint |
+| Partner wants post-project optimization and advisory support       | Expert Bank                                                |
+| Partner wants a predictable fixed price for delivery               | Fixed-Price Service Bundle                                 |
+
+In general:
+
+* Use **On-Demand Hourly Services** when the work is small, urgent, exploratory, or undefined.
+* Use **Fixed-Price Service Bundles** when the work has a clear scope, deliverables, and expected outcome.
+* Use **Partner Expert Capacity Plans** when the partner needs recurring access to Klaud’s specialist expertise across multiple activities or opportunities.
+
+Klaud can assist partners in selecting the most appropriate pricing model during opportunity qualification or technical discovery.

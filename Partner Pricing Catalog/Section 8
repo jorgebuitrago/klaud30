@@ -1,0 +1,364 @@
+# 8. What Is Included and Excluded
+
+This section defines the general boundaries of Klaud’s professional services. Specific inclusions and exclusions may vary depending on the selected pricing model, service bundle, customer environment, and agreed statement of work.
+
+The purpose of this section is to provide partners with a clear understanding of what Klaud typically delivers, what must be provided by the partner or customer, and which items require separate scope, pricing, or commercial approval.
+
+Final scope is always subject to technical validation before project commitment.
+
+---
+
+## 8.1 Generally Included Services
+
+Unless otherwise stated in the agreed scope, Klaud’s services may include the following activities.
+
+### Technical Discovery and Assessment
+
+Klaud may support discovery and assessment activities required to understand the customer environment, technical requirements, risks, and project readiness.
+
+This may include:
+
+* Technical discovery sessions
+* Current-state review
+* Environment assessment
+* Infrastructure readiness review
+* Workload domain planning
+* Version and compatibility review
+* Risk identification
+* Prerequisite validation
+* High-level recommendations
+* Delivery approach definition
+
+### Architecture and Design
+
+Klaud may provide architecture and design services for VMware Cloud Foundation, private cloud, hybrid cloud, and related infrastructure technologies.
+
+This may include:
+
+* Target-state architecture
+* High-level design
+* Low-level design
+* Workload domain architecture
+* vSphere design
+* vSAN design
+* NSX design
+* VCF Operations design
+* VCF Automation design
+* VKS enablement design
+* Disaster recovery design
+* Security and segmentation design
+* Migration strategy
+* Lifecycle management planning
+
+### Implementation and Configuration
+
+Klaud may perform or support implementation activities within the agreed technical scope.
+
+This may include:
+
+* VMware Cloud Foundation deployment
+* Workload domain deployment
+* vSphere configuration
+* vSAN configuration
+* NSX configuration
+* VCF Operations integration
+* VCF Automation foundation setup
+* VKS enablement
+* VMware Live Recovery / SRM implementation
+* HCX enablement
+* NSX ALB / AVI deployment
+* vDefend Firewall starter implementation
+* Lifecycle management configuration
+* Validation of deployed components
+
+### Upgrade, Migration, and Stabilization Support
+
+Klaud may support upgrade, migration, and stabilization activities where included in the selected bundle or statement of work.
+
+This may include:
+
+* Upgrade readiness review
+* Upgrade planning
+* Migration planning
+* Change window planning
+* Rollback planning
+* Execution support
+* Issue investigation
+* Remediation recommendations
+* Stabilization support
+* Post-upgrade or post-migration validation
+
+### Documentation and Knowledge Transfer
+
+Klaud may provide documentation and knowledge transfer related to the services delivered.
+
+This may include:
+
+* Technical findings report
+* Readiness checklist
+* Risk register
+* High-level design document
+* Low-level design document
+* Implementation runbook
+* Validation checklist
+* As-built documentation
+* Operational recommendations
+* Knowledge transfer session
+* Handover session
+
+### Project Coordination Related to Technical Delivery
+
+Klaud may participate in project coordination activities directly related to the technical services being delivered.
+
+This may include:
+
+* Technical planning meetings
+* Delivery status updates
+* Change window coordination
+* Risk and issue discussions
+* Partner technical alignment
+* Customer technical alignment, when agreed
+* Delivery milestone review
+
+Klaud’s role is technical and advisory. Overall project management, customer account management, contract management, and commercial governance remain the responsibility of the partner unless otherwise agreed.
+
+---
+
+## 8.2 Generally Excluded Services
+
+The following items are not included unless specifically stated in the agreed scope or added through a separate service bundle, add-on, or change order.
+
+### Hardware, Facilities, and Physical Infrastructure
+
+Klaud does not typically provide or manage physical infrastructure activities.
+
+Excluded items include:
+
+* Hardware procurement
+* Hardware installation
+* Rack and stack
+* Cabling
+* Power and cooling work
+* Data centre facilities work
+* Physical switch installation
+* Physical firewall installation
+* Physical storage array installation
+* Hardware warranty or support management
+
+### Licensing and Commercial Procurement
+
+Klaud does not act as the licensing reseller or procurement owner unless specifically agreed.
+
+Excluded items include:
+
+* VMware/Broadcom licensing procurement
+* License entitlement management
+* Subscription renewal management
+* Third-party product purchasing
+* Vendor contract negotiation
+* Customer purchase order management
+* End-customer commercial negotiations
+
+Klaud may review licensing assumptions from a technical perspective, but the partner remains responsible for licensing accuracy, commercial terms, and procurement process.
+
+### Customer Network and Security Administration
+
+Klaud may define technical requirements, but the customer or partner is responsible for implementing required changes in systems outside Klaud’s agreed scope.
+
+Excluded items include:
+
+* Physical network switch configuration
+* External firewall rule implementation
+* Customer DNS administration
+* Customer NTP administration
+* Customer Active Directory administration
+* Customer PKI administration
+* IP address management outside agreed scope
+* WAN/MPLS/SD-WAN provider coordination
+* Internet circuit or carrier coordination
+
+Klaud may provide prerequisite information and technical guidance, but execution remains the responsibility of the partner or customer.
+
+### Application, Database, and Workload Migration
+
+Unless explicitly included, Klaud’s services are focused on infrastructure platforms, not application-level migration or modernization.
+
+Excluded items include:
+
+* Application refactoring
+* Application dependency mapping
+* Database migration
+* Operating system remediation
+* Application testing
+* Business application cutover
+* End-user acceptance testing
+* Application owner coordination
+* Data migration outside agreed infrastructure scope
+
+Klaud may support infrastructure migration planning, HCX enablement, and workload mobility activities when included in scope.
+
+### Backup, Monitoring, and Third-Party Tooling
+
+Unless specifically included as an add-on or agreed deliverable, third-party platform implementation is excluded.
+
+Excluded items include:
+
+* Backup platform deployment
+* Backup policy configuration
+* Third-party monitoring tools
+* SIEM integration
+* ITSM platform integration
+* CMDB population
+* Third-party automation tools
+* Third-party security tool deployment
+
+Klaud may provide integration guidance where relevant to the VMware platform design.
+
+### Managed Services and Long-Term Operations
+
+Klaud’s services are professional services, advisory, and project delivery services. They are not a replacement for a managed services contract unless separately agreed.
+
+Excluded items include:
+
+* 24x7 managed support
+* Continuous monitoring
+* Long-term environment administration
+* Patch management as an ongoing service
+* Backup operations
+* Incident response service desk
+* End-user support
+* SLA-based production support
+* Dedicated resident engineering
+
+Post-deployment hypercare may be included in certain bundles, but it is limited in duration and scope.
+
+---
+
+## 8.3 Items Requiring Separate Scope or Add-On Pricing
+
+Some activities may be related to the original project but require additional scope, pricing, and approval because they add complexity, risk, or delivery effort.
+
+These may include:
+
+* Additional workload domains
+* Additional physical sites
+* NSX Federation
+* vSAN stretched cluster
+* VCF Automation beyond foundational setup
+* VKS production enablement beyond initial scope
+* Advanced vDefend Firewall or microsegmentation design
+* NSX ALB / AVI advanced configuration
+* VMware Live Recovery / SRM implementation
+* HCX migration enablement
+* Air-gapped or disconnected lifecycle management
+* Regulated or highly restricted environments
+* Complex certificate or identity requirements
+* Custom automation
+* Extended documentation
+* Additional knowledge transfer sessions
+* Extended hypercare
+* After-hours or weekend change windows
+* Onsite delivery
+* Rescue or remediation of pre-existing issues
+
+These items may be quoted as fixed-price add-ons, hourly services, or Expert Bank consumption, depending on the situation.
+
+---
+
+## 8.4 Partner and Customer Responsibilities
+
+Successful delivery depends on timely participation and readiness from the partner and customer.
+
+Unless otherwise agreed, the partner and/or customer are responsible for:
+
+* Providing accurate technical information
+* Providing access to required systems
+* Ensuring licenses are available and valid
+* Ensuring hardware is available, supported, and ready
+* Providing network, DNS, NTP, firewall, and certificate prerequisites
+* Assigning technical contacts and decision-makers
+* Providing change windows
+* Approving designs and implementation plans
+* Coordinating internal teams
+* Managing customer communications
+* Managing commercial and contractual relationship with the end customer
+* Reviewing and approving deliverables in a timely manner
+
+Delays in these responsibilities may affect project timelines, delivery dates, and pricing.
+
+---
+
+## 8.5 Documentation Boundaries
+
+Klaud provides documentation related to the agreed technical scope. Documentation is intended to support architecture understanding, implementation traceability, operational handover, and partner/customer enablement.
+
+Standard documentation may include:
+
+* Design documents
+* Implementation notes
+* As-built documentation
+* Validation results
+* Technical findings
+* Risk and recommendation summaries
+* Knowledge transfer material
+
+The following documentation is excluded unless specifically included:
+
+* Formal regulatory compliance documentation
+* Audit certification reports
+* Full operational manuals
+* End-user manuals
+* Training curriculum development
+* Custom-branded customer documentation
+* Extensive diagramming outside agreed scope
+* Documentation for systems not implemented or reviewed by Klaud
+
+---
+
+## 8.6 Hypercare Boundaries
+
+Some fixed-price bundles may include a limited post-deployment hypercare period. Hypercare is intended to support stabilization after project delivery, not to provide long-term managed support.
+
+Hypercare may include:
+
+* Follow-up technical questions
+* Validation support
+* Minor configuration review
+* Issue triage related to delivered scope
+* Clarification of documentation
+* Handover support
+
+Hypercare does not include:
+
+* New feature implementation
+* Additional integrations
+* New workload domains
+* Major design changes
+* 24x7 production support
+* Customer operational administration
+* Issues caused by changes made outside the agreed scope
+* Support for unrelated systems or third-party tools
+
+Any work beyond the agreed hypercare scope may be handled through hourly services, Expert Bank hours, or a separate fixed-price engagement.
+
+---
+
+## 8.7 Scope Validation Requirement
+
+All services are subject to scope validation before final commitment. The pricing in this catalog provides a commercial framework, but final scope and pricing may vary depending on:
+
+* Customer environment size
+* Number of sites
+* Number of workload domains
+* Version compatibility
+* Hardware readiness
+* Network complexity
+* Security requirements
+* Migration complexity
+* Operational constraints
+* Change window limitations
+* Documentation requirements
+* Timeline expectations
+* Customer readiness
+
+Klaud reserves the right to adjust pricing, delivery assumptions, or engagement model if the technical assessment identifies complexity, risk, or requirements beyond the standard scope.

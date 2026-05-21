@@ -1,0 +1,188 @@
+# 15. Pricing Summary
+
+This section provides a consolidated summary of Klaud’s partner net pricing across all engagement models.
+
+All prices are listed in **USD** and are intended for **qualified partners only**. Pricing is not intended to be used as an end-customer-facing price list. Partners are responsible for defining their own resale pricing, commercial margin, contractual terms, and customer-facing proposal structure.
+
+Final pricing is subject to scope validation, technical complexity, customer readiness, delivery assumptions, and agreed statement of work.
+
+---
+
+## 15.1 On-Demand Hourly Services
+
+The On-Demand Hourly Services model provides flexible access to Klaud specialists on a time-and-materials basis.
+
+| Service Type                               |                 Partner Net Rate |
+| ------------------------------------------ | -------------------------------: |
+| Standard senior VMware consulting          |                    **$165/hour** |
+| Principal architect / advanced specialist  |                    **$195/hour** |
+| Emergency, after-hours, or weekend support |                    **$260/hour** |
+| Onsite consulting day rate                 | **$1,850/day + travel expenses** |
+
+### Commercial Rules
+
+| Item               | Rule                                                                                                              |
+| ------------------ | ----------------------------------------------------------------------------------------------------------------- |
+| Minimum engagement | 10 hours                                                                                                          |
+| Billing increments | 4-hour blocks after the minimum engagement                                                                        |
+| Delivery model     | Remote by default                                                                                                 |
+| Onsite delivery    | Available by request                                                                                              |
+| Travel expenses    | Billed separately                                                                                                 |
+| Availability       | Best effort, subject to resource availability                                                                     |
+| Recommended use    | Small tasks, advisory work, troubleshooting, technical reviews, pre-sales support, or initial partner engagements |
+
+---
+
+## 15.2 Discovery and Readiness Bundles
+
+Discovery and readiness bundles help partners assess opportunities, validate project readiness, identify risks, and prepare for larger VMware Cloud Foundation or private cloud engagements.
+
+| Bundle                           | Partner Net Price |
+| -------------------------------- | ----------------: |
+| VCF Readiness Assessment         |        **$6,500** |
+| VCF Architecture Workshop        |        **$9,500** |
+| VCF Upgrade Readiness Assessment |        **$8,500** |
+| NSX / vSAN / VKS Health Check    |        **$7,500** |
+
+---
+
+## 15.3 VCF Design and Deployment Bundles
+
+VCF Design and Deployment Bundles are priced per workload domain and depend on the complexity of the customer environment.
+
+| Bundle                                         |                        Partner Net Price |
+| ---------------------------------------------- | ---------------------------------------: |
+| VCF Design & Deploy — Standard Workload Domain |                              **$42,000** |
+| VCF Design & Deploy — Advanced Workload Domain |                              **$58,000** |
+| VCF Design & Deploy — Complex Workload Domain  |                              **$78,000** |
+| Additional Workload Domain                     | **Subject to scope; discount may apply** |
+
+---
+
+## 15.4 VCF Upgrade and Migration Bundles
+
+These bundles support lifecycle, modernization, migration, re-platforming, and stabilization initiatives.
+
+| Bundle                                         |             Partner Net Price |
+| ---------------------------------------------- | ----------------------------: |
+| VCF Upgrade — Standard Workload Domain         |                   **$28,000** |
+| VCF Upgrade — Advanced Workload Domain         |                   **$42,000** |
+| VCF Migration / Re-platforming Workload Domain |                   **$52,000** |
+| Rescue / Stabilization Sprint                  | **$18,000 per 2-week sprint** |
+
+---
+
+## 15.5 Add-On Services
+
+Add-on services are used when the customer requires advanced functionality beyond the standard VCF deployment, upgrade, or migration scope.
+
+| Add-On Service                               | Partner Net Price |
+| -------------------------------------------- | ----------------: |
+| VCF Automation Foundation                    |       **$22,000** |
+| VKS / Kubernetes Enablement                  |       **$24,000** |
+| vSAN Stretched Cluster                       |       **$24,000** |
+| NSX Federation / Multi-Site NSX              |       **$34,000** |
+| NSX ALB / AVI Load Balancer                  |       **$22,000** |
+| vDefend Firewall / Microsegmentation Starter |       **$30,000** |
+| VMware Live Recovery / SRM                   |       **$22,000** |
+| HCX Migration Enablement                     |       **$16,000** |
+| VCF Operations Dashboards & Alerting         |       **$14,000** |
+| PKI, Identity & Hardening Pack               |       **$12,000** |
+| Offline Depot / Disconnected Lifecycle Pack  |       **$12,000** |
+| Additional Knowledge Transfer Workshop       |        **$5,000** |
+
+---
+
+## 15.6 Partner Expert Capacity Plans
+
+Partner Expert Capacity Plans provide prepaid access to Klaud’s specialist resources over a defined validity period.
+
+| Plan            | Included Hours |  Validity | Partner Net Price | Effective Rate |
+| --------------- | -------------: | --------: | ----------------: | -------------: |
+| Expert Bank 80  |       80 hours |  6 months |       **$12,000** |      $150/hour |
+| Expert Bank 160 |      160 hours |  6 months |       **$22,400** |      $140/hour |
+| Expert Bank 320 |      320 hours | 12 months |       **$41,600** |      $130/hour |
+| Expert Bank 480 |      480 hours | 12 months |       **$60,000** |      $125/hour |
+
+### Expert Bank Consumption Rules
+
+| Item                         | Rule                                                  |
+| ---------------------------- | ----------------------------------------------------- |
+| Standard delivery            | Business hours, remote delivery                       |
+| After-hours support          | Consumes hours at 1.5x                                |
+| Weekend or emergency support | Consumes hours at 2x                                  |
+| Onsite work                  | Minimum 10 hours per onsite day, plus travel expenses |
+| Unused hours                 | Expire at the end of the validity period              |
+| Rollover                     | Up to 15% may roll over if renewed before expiry      |
+| Priority access              | Included for Expert Bank 320 and Expert Bank 480      |
+
+---
+
+## 15.7 Bundle Discount Guidelines
+
+Discounts may apply when multiple add-on services are purchased as part of the same approved project scope.
+
+| Scenario                           |               Maximum Discount |
+| ---------------------------------- | -----------------------------: |
+| 1 add-on                           |                             0% |
+| 2 add-ons                          |                             5% |
+| 3 add-ons                          |                             8% |
+| 4 or more add-ons                  |                            10% |
+| Strategic partner annual agreement | Up to 12%, subject to approval |
+
+Discounts are not automatic and must be approved as part of the final commercial proposal. Discounts do not apply to emergency support, travel expenses, onsite expenses, or already-discounted services unless specifically approved.
+
+---
+
+## 15.8 Recommended Partner Resale Guidance
+
+The pricing in this catalog is partner net pricing. Partners may add their own margin based on customer relationship, commercial strategy, project risk, and value delivered.
+
+| Service Type                  | Suggested Partner Margin |
+| ----------------------------- | -----------------------: |
+| On-Demand Hourly Services     |                  25%–35% |
+| Fixed-Price Service Bundles   |                  30%–45% |
+| Partner Expert Capacity Plans |                  20%–30% |
+| Emergency / Rescue Services   |                  35%–50% |
+
+These resale ranges are provided as general guidance only. Partners remain responsible for defining their final customer-facing pricing.
+
+---
+
+## 15.9 Pricing Notes
+
+Unless otherwise stated:
+
+* All prices are in **USD**.
+* Prices exclude applicable taxes.
+* Prices exclude travel and accommodation expenses.
+* Pricing assumes remote delivery.
+* Onsite delivery must be quoted or approved separately.
+* Pricing is based on the scope and assumptions validated before delivery.
+* Final pricing may vary depending on customer environment complexity.
+* Services are subject to Klaud resource availability.
+* Fixed-price bundles apply only to the agreed scope.
+* Out-of-scope work may require a change order, hourly billing, or Expert Bank consumption.
+
+---
+
+## 15.10 Pricing Summary Table
+
+| Category                           | Starting Partner Net Price |
+| ---------------------------------- | -------------------------: |
+| On-Demand Hourly Services          |              **$165/hour** |
+| Principal Architect Services       |              **$195/hour** |
+| Emergency / After-Hours Support    |              **$260/hour** |
+| VCF Readiness Assessment           |                 **$6,500** |
+| VCF Architecture Workshop          |                 **$9,500** |
+| VCF Design & Deploy — Standard WLD |                **$42,000** |
+| VCF Design & Deploy — Advanced WLD |                **$58,000** |
+| VCF Design & Deploy — Complex WLD  |                **$78,000** |
+| VCF Upgrade — Standard WLD         |                **$28,000** |
+| VCF Upgrade — Advanced WLD         |                **$42,000** |
+| VCF Migration / Re-platforming WLD |                **$52,000** |
+| Rescue / Stabilization Sprint      |                **$18,000** |
+| Add-On Services                    |            **From $5,000** |
+| Partner Expert Capacity Plans      |           **From $12,000** |
+
+This pricing summary is intended to help partners quickly estimate Klaud’s services for internal costing, proposal preparation, and opportunity planning. Final commercial terms must be confirmed through the agreed engagement process.

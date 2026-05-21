@@ -1,0 +1,60 @@
+## 6. Engagement Models Overview
+
+Klaud offers three commercial engagement models to support different partner needs, opportunity stages, and project types. Each model is designed to give partners a clear way to access specialized VMware Cloud Foundation and private cloud expertise while maintaining flexibility in how they structure their own customer-facing proposals.
+
+The three models are:
+
+1. **On-Demand Hourly Services**
+2. **Fixed-Price Service Bundles**
+3. **Partner Expert Capacity Plans**
+
+Each model can be used independently or combined depending on the opportunity. For example, a partner may begin with a short hourly engagement for pre-sales validation, move into a fixed-price deployment bundle after the project is approved, and later use a Partner Expert Capacity Plan for ongoing architecture, optimization, or escalation support.
+
+### 6.1 Model Comparison
+
+| Engagement Model                  | Best For                                                                                                          | Pricing Logic                              | Partner Benefit                                                                                |
+| --------------------------------- | ----------------------------------------------------------------------------------------------------------------- | ------------------------------------------ | ---------------------------------------------------------------------------------------------- |
+| **On-Demand Hourly Services**     | Small tasks, advisory work, troubleshooting, pre-sales support, technical reviews, or initial partner engagements | Time and materials                         | Flexible access to senior expertise without a long-term commitment                             |
+| **Fixed-Price Service Bundles**   | VCF deployments, upgrades, migrations, assessments, and defined technical add-ons                                 | Scope-based and milestone-driven           | Predictable pricing, clear deliverables, and easier resale to end customers                    |
+| **Partner Expert Capacity Plans** | Partners with recurring opportunities or ongoing need for specialist support                                      | Prepaid expert hours with defined validity | Priority access, simplified engagement, and reduced need to negotiate each activity separately |
+
+### 6.2 Recommended Use by Opportunity Type
+
+| Partner Need                                                  | Recommended Model                                         |
+| ------------------------------------------------------------- | --------------------------------------------------------- |
+| The partner wants to test Klaud’s technical capabilities      | On-Demand Hourly Services                                 |
+| The partner needs help qualifying a customer opportunity      | On-Demand Hourly Services or Partner Expert Capacity Plan |
+| The partner needs a predictable price for a customer proposal | Fixed-Price Service Bundle                                |
+| The partner has already sold a VCF deployment                 | Fixed-Price Service Bundle                                |
+| The partner has multiple VMware opportunities in the pipeline | Partner Expert Capacity Plan                              |
+| The partner needs urgent escalation or rescue support         | On-Demand Hourly Services or Partner Expert Capacity Plan |
+| The partner wants ongoing access to senior VMware specialists | Partner Expert Capacity Plan                              |
+
+### 6.3 Commercial Positioning
+
+The **On-Demand Hourly Services** model is the most flexible option, but it is not the preferred model for full project delivery. It is best used for short engagements, early-stage support, troubleshooting, or cases where the scope is not yet clearly defined.
+
+The **Fixed-Price Service Bundles** model is the recommended option for defined projects. It gives partners clear pricing, scope, deliverables, and commercial predictability. This makes it easier to include Klaud’s services in customer proposals and reduces uncertainty around delivery costs.
+
+The **Partner Expert Capacity Plans** model is designed for partners that expect recurring demand for specialist expertise. It allows partners to reserve prepaid access to Klaud’s resources and assign those hours to different activities as needed within the validity period.
+
+### 6.4 Combining Engagement Models
+
+Partners may combine models when it makes sense for the opportunity.
+
+Examples:
+
+* A partner uses **On-Demand Hourly Services** for an initial technical discovery session, then moves to a **Fixed-Price Service Bundle** for the deployment.
+* A partner purchases a **Partner Expert Capacity Plan** and uses the hours for pre-sales support, design reviews, troubleshooting, and minor implementation tasks.
+* A partner uses a **Fixed-Price Service Bundle** for a VCF deployment and adds a **Partner Expert Capacity Plan** for post-project optimization and ongoing specialist support.
+* A partner uses **On-Demand Hourly Services** for urgent rescue support, then transitions into a structured stabilization or migration bundle.
+
+### 6.5 How to Select the Right Model
+
+As a general rule:
+
+* Use **On-Demand Hourly Services** when the work is small, urgent, exploratory, or not clearly defined.
+* Use **Fixed-Price Service Bundles** when the scope, deliverables, and expected outcome can be clearly defined.
+* Use **Partner Expert Capacity Plans** when the partner wants ongoing access to Klaud’s expertise across multiple activities, customers, or opportunities.
+
+Klaud can help partners select the most appropriate engagement model during opportunity qualification or technical discovery. Final model selection depends on the customer environment, project complexity, timeline, scope clarity, and required level of support.

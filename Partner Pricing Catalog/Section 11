@@ -1,0 +1,244 @@
+# 11. Change Order Policy
+
+Klaud’s pricing is based on the agreed scope, assumptions, deliverables, timelines, and responsibilities defined before the engagement begins. When project requirements change, additional scope is introduced, or delivery conditions are materially different from what was originally agreed, a change order may be required.
+
+The purpose of this policy is to protect project quality, maintain commercial clarity, and ensure that partners and customers understand how additional effort, complexity, or risk will be managed.
+
+---
+
+## 11.1 What Is a Change Order?
+
+A change order is a formal adjustment to the agreed scope, pricing, timeline, deliverables, or delivery model.
+
+A change order may be required when:
+
+* New requirements are added.
+* The technical environment is more complex than originally described.
+* Prerequisites are missing or incomplete.
+* The customer requests additional deliverables.
+* The project timeline changes due to partner or customer delays.
+* Additional risk or effort is introduced.
+* The original scope no longer reflects the work required to achieve the desired outcome.
+
+Change orders may be priced as fixed-price add-ons, hourly services, or Expert Bank hour consumption, depending on the nature of the change.
+
+---
+
+## 11.2 Common Change Order Triggers
+
+The following items commonly require a change order unless they were explicitly included in the original scope.
+
+### Architecture and Design Changes
+
+* Major design changes after design approval
+* Change from single-site to multi-site architecture
+* Change from standard deployment to stretched cluster design
+* Addition of new security or segmentation requirements
+* Addition of new automation or self-service requirements
+* Addition of new disaster recovery requirements
+* Change in workload domain architecture
+* Change in NSX, vSAN, routing, or lifecycle design
+
+### Additional Scope
+
+* Additional workload domains
+* Additional clusters
+* Additional physical sites
+* Additional VMware products or services
+* Additional integrations
+* Additional migration waves
+* Additional customer workshops
+* Additional documentation
+* Additional knowledge transfer sessions
+* Extended hypercare
+* Additional validation or testing outside the agreed scope
+
+### Advanced VMware Capabilities
+
+The following items require separate pricing unless already included as an add-on:
+
+* NSX Federation
+* vSAN stretched cluster
+* VCF Automation beyond foundational setup
+* VKS production enablement beyond initial scope
+* NSX ALB / AVI advanced configuration
+* vDefend Firewall or microsegmentation expansion
+* VMware Live Recovery / SRM implementation
+* HCX migration enablement
+* Offline depot or disconnected lifecycle management
+* Advanced compliance or hardening requirements
+
+### Environment Readiness Issues
+
+A change order may be required when delivery is affected by:
+
+* Unsupported hardware
+* Unsupported firmware or drivers
+* Unsupported VMware versions
+* Failed health checks
+* Existing platform instability
+* Missing licenses or entitlements
+* Missing DNS, NTP, certificate, or identity prerequisites
+* Missing VLANs, routing, firewall rules, or IP information
+* Incomplete physical infrastructure readiness
+* Lack of required administrative access
+* Customer security restrictions not disclosed during discovery
+
+### Scheduling and Delivery Changes
+
+A change order may also apply when the project requires:
+
+* After-hours work
+* Weekend work
+* Emergency response
+* Compressed timelines
+* Repeated rescheduling
+* Cancelled or missed change windows
+* Extended project duration due to customer or partner delays
+* Onsite delivery not originally included
+* Additional meetings or coordination outside the agreed project governance
+
+---
+
+## 11.3 Change Order Process
+
+When a potential scope change is identified, Klaud will notify the partner and provide details of the impact.
+
+The standard change order process is:
+
+1. **Identify the change**
+   Klaud, the partner, or the customer identifies a requirement, risk, delay, or condition that may affect the agreed scope.
+
+2. **Assess the impact**
+   Klaud reviews the technical, commercial, and scheduling impact of the change.
+
+3. **Recommend an approach**
+   Klaud recommends whether the change should be handled as:
+
+   * A fixed-price add-on
+   * Hourly services
+   * Expert Bank hour consumption
+   * A revised statement of work
+   * A timeline adjustment only
+
+4. **Provide pricing or effort estimate**
+   Klaud provides the partner with the estimated cost, effort, timeline impact, and revised assumptions.
+
+5. **Obtain approval**
+   The partner must approve the change before Klaud proceeds with additional work.
+
+6. **Update delivery plan**
+   Once approved, the project plan, milestones, deliverables, or schedule are updated as required.
+
+---
+
+## 11.4 Approval Requirement
+
+Klaud will not proceed with additional out-of-scope work without partner approval.
+
+Approval may be provided through:
+
+* Signed change order
+* Approved revised statement of work
+* Written email approval
+* Approved purchase order
+* Approved Expert Bank hour consumption
+
+For urgent or emergency situations, the partner may authorize Klaud to proceed under hourly rates or Expert Bank consumption while the formal change order documentation is completed.
+
+---
+
+## 11.5 Pricing of Change Orders
+
+Change orders may be priced using one of the following methods:
+
+| Change Type                        | Typical Pricing Method                     |
+| ---------------------------------- | ------------------------------------------ |
+| Clearly defined additional scope   | Fixed-price add-on                         |
+| Small or undefined technical tasks | Hourly services                            |
+| Partner with active prepaid hours  | Expert Bank consumption                    |
+| Emergency or after-hours work      | Emergency rate or hour multiplier          |
+| Major project expansion            | Revised statement of work                  |
+| Customer-caused delays             | Timeline adjustment and/or additional fees |
+
+Klaud will recommend the most appropriate pricing method based on the nature of the change, urgency, scope clarity, and partner preference.
+
+---
+
+## 11.6 Impact on Timeline and Deliverables
+
+Approved change orders may affect:
+
+* Project timeline
+* Delivery milestones
+* Resource scheduling
+* Required prerequisites
+* Validation activities
+* Documentation requirements
+* Hypercare period
+* Final project completion date
+
+If the change introduces additional complexity or risk, Klaud may require additional assessment before confirming the revised schedule.
+
+---
+
+## 11.7 Customer or Partner Delays
+
+Delays caused by the partner or customer may require timeline adjustment or additional charges, especially in fixed-price engagements.
+
+Examples include:
+
+* Missing access
+* Missing credentials
+* Incomplete prerequisites
+* Delayed approvals
+* Cancelled change windows
+* Lack of required technical contacts
+* Customer environment not ready
+* Internal customer process delays
+* Delayed hardware, licensing, or network readiness
+
+If delays materially affect the project schedule, Klaud may pause delivery until the required items are resolved. Rescheduling will be subject to resource availability.
+
+---
+
+## 11.8 Out-of-Scope Work During Delivery
+
+During delivery, Klaud may identify items that are helpful or recommended but outside the agreed scope.
+
+In these cases, Klaud may:
+
+* Document the item as a recommendation
+* Include it in the risk or issue register
+* Propose it as a change order
+* Suggest using Expert Bank hours
+* Recommend a future phase
+
+Klaud will not treat every recommendation as an automatic project requirement. The partner and customer may decide whether to include, defer, or decline additional work.
+
+---
+
+## 11.9 No Waiver of Scope
+
+If Klaud provides minor guidance or clarification outside the strict scope of the engagement, this does not mean that the full related activity is included in the original scope.
+
+For example, discussing NSX Federation during a design review does not automatically include NSX Federation design or implementation. Similarly, identifying a potential automation opportunity does not include VCF Automation deployment unless it is part of the agreed scope.
+
+This ensures that small advisory discussions do not create unintended delivery obligations.
+
+---
+
+## 11.10 Change Order Summary
+
+The change order policy is designed to keep engagements fair, transparent, and controlled.
+
+In general:
+
+* Agreed scope is included.
+* New scope requires approval.
+* Missing prerequisites may affect delivery.
+* Major design changes may affect price and timeline.
+* Emergency or after-hours work requires separate commercial handling.
+* Fixed-price services are fixed only for the agreed scope and assumptions.
+
+This approach allows Klaud to maintain delivery quality while giving partners clear control over additional cost, scope, and customer communication.

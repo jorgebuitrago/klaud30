@@ -1,0 +1,238 @@
+# 12. Service Levels and Availability
+
+Klaud provides professional services, project delivery, and specialist advisory support. Unless specifically agreed in a separate managed services or support agreement, Klaud’s services should not be interpreted as 24x7 production support, managed operations, or a formal service desk.
+
+Service levels and availability depend on the selected engagement model, project scope, urgency, resource availability, and commercial terms agreed with the partner.
+
+---
+
+## 12.1 Standard Delivery Hours
+
+Unless otherwise agreed, Klaud delivers services during standard business hours.
+
+Standard delivery assumptions:
+
+* Remote delivery by default
+* Business-hours execution
+* Scheduled meetings and working sessions
+* Planned change windows
+* Reasonable advance notice for implementation activities
+* Delivery based on confirmed scope and resource availability
+
+After-hours, weekend, emergency, or onsite work may be available by request and may require premium pricing, hour multipliers, or separate approval.
+
+---
+
+## 12.2 Remote-First Delivery
+
+Klaud’s default delivery model is remote-first. Most architecture, design, implementation, validation, advisory, and troubleshooting activities can be delivered remotely when the required access, tools, and approvals are available.
+
+Remote delivery may include:
+
+* Video meetings
+* Technical workshops
+* Remote access sessions
+* Screen-sharing sessions
+* Secure VPN or jump-host access
+* Collaborative documentation review
+* Remote implementation and validation
+* Remote troubleshooting and escalation support
+
+The partner and customer are responsible for providing the required access method and ensuring that it complies with the customer’s security policies.
+
+---
+
+## 12.3 Onsite Availability
+
+Onsite delivery may be available when required by the customer environment, project complexity, security requirements, or partner preference.
+
+Onsite delivery is subject to:
+
+* Resource availability
+* Advance scheduling
+* Travel approval
+* Travel and accommodation expenses
+* Minimum onsite day requirements
+* Customer site access requirements
+* Security or visitor approval processes
+
+Unless specifically included in the statement of work, onsite delivery is not included in standard pricing.
+
+---
+
+## 12.4 Response Targets
+
+Klaud’s response targets depend on the engagement model.
+
+| Engagement Model                | Standard Response Target                                      |
+| ------------------------------- | ------------------------------------------------------------- |
+| **On-Demand Hourly Services**   | Best effort, subject to availability                          |
+| **Fixed-Price Service Bundles** | Based on agreed project schedule and governance               |
+| **Expert Bank 80 / 160**        | Target response within 2 business days                        |
+| **Expert Bank 320 / 480**       | Priority scheduling and target response within 1 business day |
+| **Emergency / Rescue Support**  | Subject to availability and emergency rate approval           |
+
+Response targets refer to Klaud’s acknowledgement and scheduling response, not necessarily full resolution of the issue. Resolution time depends on technical complexity, access, customer readiness, vendor dependencies, and the nature of the issue.
+
+---
+
+## 12.5 Priority Handling
+
+Priority handling is available for larger Expert Bank plans and approved emergency engagements.
+
+Priority handling may include:
+
+* Faster scheduling response
+* Higher priority for specialist availability
+* Earlier review of technical requests
+* Priority assignment for planned activities
+* Priority escalation for active project issues
+
+Priority handling does not guarantee immediate availability, 24x7 coverage, or fixed resolution times unless separately agreed in writing.
+
+---
+
+## 12.6 Emergency and After-Hours Support
+
+Emergency, after-hours, and weekend support may be available by request.
+
+This type of support may apply when:
+
+* A customer environment is unstable
+* A deployment or upgrade has failed
+* A production-impacting issue requires specialist review
+* A change window must occur outside business hours
+* The partner requires urgent escalation
+* A project has a compressed or critical timeline
+
+Emergency and after-hours support is subject to:
+
+* Klaud resource availability
+* Partner approval
+* Premium hourly rates or Expert Bank multipliers
+* Defined scope for the emergency activity
+* Required customer access and approvals
+
+Emergency support is not included in standard fixed-price bundles unless specifically stated.
+
+---
+
+## 12.7 Expert Bank Availability
+
+Partner Expert Capacity Plans provide more predictable access to Klaud’s specialist resources than ad hoc hourly services.
+
+For Expert Bank plans:
+
+* Hours may be used across eligible activities.
+* Requests are scheduled based on priority and resource availability.
+* Larger plans receive priority handling.
+* After-hours work consumes hours at the applicable multiplier.
+* Unused hours expire according to the selected plan validity.
+* Partner must request services with reasonable notice when possible.
+
+Expert Bank hours provide access to specialist capacity, but they do not create a dedicated full-time resource unless separately agreed.
+
+---
+
+## 12.8 Fixed-Price Project Availability
+
+For fixed-price service bundles, availability is governed by the agreed project schedule, milestones, and delivery plan.
+
+Klaud will assign resources according to:
+
+* Approved scope
+* Confirmed start date
+* Customer readiness
+* Required change windows
+* Partner and customer availability
+* Technical complexity
+* Delivery dependencies
+
+If the partner or customer delays access, approvals, prerequisites, or change windows, Klaud may need to reschedule work based on resource availability.
+
+---
+
+## 12.9 Service Level Boundaries
+
+Klaud’s service levels apply only to the services and activities included in the agreed scope.
+
+Unless separately agreed, Klaud does not provide:
+
+* 24x7 managed support
+* Continuous monitoring
+* SLA-based incident resolution
+* Production service desk
+* End-user support
+* Long-term administration
+* Dedicated resident engineering
+* Vendor support replacement
+* Hardware support
+* Application support
+* Security operations centre services
+
+Klaud may support troubleshooting, stabilization, and advisory activities when included in scope, purchased hourly, or consumed through Expert Bank hours.
+
+---
+
+## 12.10 Customer and Partner Dependency
+
+Response and delivery timelines depend on timely participation from the partner and customer.
+
+Delays may occur when:
+
+* Required access is not available
+* Credentials are missing or expired
+* Change approvals are delayed
+* Customer SMEs are unavailable
+* Network or firewall rules are incomplete
+* Required prerequisites are not ready
+* Vendor support cases are pending
+* Hardware, licensing, or entitlement issues exist
+* The issue requires investigation by a third party
+
+Klaud is not responsible for delays caused by factors outside its control.
+
+---
+
+## 12.11 Communication Channels
+
+Klaud and the partner should agree on communication channels before delivery begins.
+
+Typical communication channels may include:
+
+* Email
+* Video meetings
+* Partner collaboration tools
+* Shared project documentation
+* Ticketing system, when agreed
+* Secure remote access sessions
+
+For fixed-price projects, Klaud recommends defining:
+
+* Primary partner contact
+* Technical escalation contact
+* Customer technical contact
+* Meeting cadence
+* Approval process
+* Change communication process
+
+Clear communication channels help reduce delays, avoid misunderstandings, and keep project delivery aligned.
+
+---
+
+## 12.12 Service Levels Summary
+
+| Area                | Standard Position                                            |
+| ------------------- | ------------------------------------------------------------ |
+| Delivery model      | Remote-first                                                 |
+| Business hours      | Standard business-hours delivery unless otherwise agreed     |
+| Onsite work         | Available by request, billed separately unless included      |
+| Hourly services     | Best effort, subject to availability                         |
+| Fixed-price bundles | Governed by agreed project schedule                          |
+| Expert Bank plans   | Scheduled access to prepaid specialist capacity              |
+| Emergency support   | Subject to availability and premium pricing                  |
+| 24x7 support        | Not included unless separately contracted                    |
+| Managed services    | Not included unless separately contracted                    |
+| Response target     | Acknowledgement/scheduling target, not guaranteed resolution |
+
+Klaud’s service levels are designed to provide practical, professional, and predictable access to senior technical expertise while maintaining clear boundaries between project delivery, advisory services, emergency support, and managed operations.
