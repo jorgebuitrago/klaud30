@@ -3,12 +3,12 @@
 ## Resumen
 
 Klaud ofrece servicios de consultoría especializada enfocados en **capacidades avanzadas sobre plataformas VMware**.  
-Nuestros servicios están pensados para entornos donde **los esquemas de implementación estándar no alcanzan**, y donde las organizaciones necesitan **profundidad técnica para diseñar, modernizar o ampliar sus plataformas VMware**.
+Nuestros servicios están pensados para entornos donde **los esquemas de implementación estándar no alcanzan**, y donde las organizaciones necesitan **profundidad técnica para adoptar, modernizar o ampliar sus plataformas VMware**.
 
 El portafolio de Klaud se organiza en cuatro pilares principales:
 
-1. Arquitectura de Plataforma VMware  
-2. Modernización de VMware Cloud Foundation (VCF)  
+1. Adopción de VMware Cloud Foundation 9.x  
+2. Modernización y Adopción de Capacidades Avanzadas de VCF  
 3. Arquitecturas Avanzadas de Red  
 4. Habilitación de Kubernetes / Tanzu  
 
@@ -16,66 +16,21 @@ Cada uno de estos pilares responde a un tipo específico de desafío de infraest
 
 ---
 
-# 1. Arquitectura de Plataforma VMware
+# 1. Adopción de VMware Cloud Foundation 9.x
 
 ## Descripción
 
-Este servicio está orientado al **diseño de arquitectura y al acompañamiento técnico de entornos complejos de infraestructura VMware**.  
+Este servicio acompaña a las organizaciones en su transición hacia **VMware Cloud Foundation 9.x**, independientemente del punto en el que se encuentren actualmente.
 
-Muchas organizaciones han construido sus plataformas VMware de forma progresiva, incorporando componentes con el tiempo. El resultado suele ser un entorno heterogéneo, difícil de escalar o poco alineado con prácticas modernas de infraestructura.
+La adopción puede partir de versiones anteriores de VMware Cloud Foundation o de arquitecturas legadas compuestas principalmente por vSphere y otros productos VMware administrados de manera independiente.
 
-Klaud aporta **criterio arquitectónico senior** para diseñar plataformas VMware que sean:
+VCF 9.x representa una evolución desde la administración aislada de componentes hacia un **modelo integrado de nube privada**, con capacidades unificadas para gestionar infraestructura, operaciones, seguridad, automatización y cargas de trabajo modernas.
 
-- escalables
-- sostenibles desde el punto de vista operativo
-- alineadas con los requerimientos de infraestructura de la organización
+Esta transición responde tanto a la evolución tecnológica de la plataforma como a los cambios comerciales y de producto introducidos por VMware/Broadcom. La consolidación del portafolio alrededor de VMware Cloud Foundation y el modelo actual de licenciamiento por suscripción hacen necesario que las organizaciones revisen su arquitectura, sus procesos y su estrategia de ciclo de vida.
 
----
+La adopción de VCF 9.x no debe considerarse únicamente como una actualización de versiones. Requiere evaluar la arquitectura existente, definir una ruta de transición soportada y preparar la plataforma y los equipos para operar bajo un modelo integrado de nube privada.
 
-## Alcance Técnico
-
-Las actividades típicas incluyen:
-
-- evaluación de la arquitectura actual de la infraestructura
-- diseño de la topología de la plataforma VMware
-- definición de integraciones entre productos VMware (vSphere, NSX, componentes de VCF)
-- planificación de arquitectura de red y de workload domains
-- análisis de dependencias de infraestructura
-- validación arquitectónica para implementaciones complejas o de alto riesgo
-- asesoría técnica durante la toma de decisiones de arquitectura
-
----
-
-## Resultados Esperados
-
-- arquitectura de plataforma clara y documentada
-- reducción del riesgo arquitectónico antes de comenzar la implementación
-- alineación entre el diseño de infraestructura y los requerimientos operativos
-- definición de topologías e integraciones de infraestructura
-
----
-
-## Escenarios Objetivo
-
-Este servicio suele requerirse cuando:
-
-- los entornos VMware han crecido de forma orgánica y carecen de coherencia arquitectónica
-- una nueva iniciativa de infraestructura requiere una arquitectura formal de plataforma
-- es necesario integrar múltiples tecnologías VMware
-- el proyecto involucra componentes de infraestructura heterogéneos
-- un partner necesita criterio arquitectónico en un proyecto VMware complejo
-
----
-
-# 2. Modernización de VMware Cloud Foundation (VCF)
-
-## Descripción
-
-Este servicio se enfoca en **modernizar entornos VMware existentes hacia un modelo operativo basado en VMware Cloud Foundation (VCF)**.
-
-Muchas organizaciones hoy operan sobre entornos legados de vSphere que no cuentan con el nivel de estandarización, automatización del ciclo de vida ni consistencia arquitectónica esperada en una plataforma moderna de nube privada.
-
-Klaud ayuda a transformar esos entornos en **plataformas estructuradas sobre VCF**.
+Klaud aporta **experiencia arquitectónica y técnica especializada** para diseñar y ejecutar esta transición de forma controlada, reduciendo riesgos y protegiendo la continuidad de los servicios.
 
 ---
 
@@ -84,21 +39,42 @@ Klaud ayuda a transformar esos entornos en **plataformas estructuradas sobre VCF
 Las actividades típicas incluyen:
 
 - evaluación del estado actual de la infraestructura VMware
-- diseño de arquitectura VCF y definición de la estrategia de modernización
-- planificación de la migración desde entornos legados de vSphere
-- planificación y estandarización de workload domains
-- definición de la estrategia de gestión del ciclo de vida
-- estandarización de infraestructura y alineación de la plataforma
-- planificación de integración con servicios corporativos de infraestructura
+- evaluación de preparación para la adopción de VCF 9.x
+- análisis de versiones, dependencias e integraciones existentes
+- identificación de desviaciones de configuración y bloqueadores técnicos
+- validación de compatibilidad de hardware, firmware, controladores, almacenamiento y red
+- validación de compatibilidad con soluciones de terceros
+- análisis de las rutas de actualización soportadas
+- definición de la estrategia de transición desde versiones anteriores de VCF
+- definición de la estrategia de adopción desde arquitecturas legadas basadas en vSphere
+- planificación de actualizaciones intermedias o tareas de remediación
+- definición de la arquitectura objetivo de VCF 9.x
+- diseño del dominio de gestión y de los workload domains
+- planificación de capacidad, disponibilidad, resiliencia y crecimiento
+- planificación de la integración con DNS, NTP, identidad, certificados y otros servicios corporativos
+- evaluación del impacto sobre respaldo, recuperación ante desastres, monitoreo y automatización
+- diseño de la secuencia de actualización, migración o incorporación del entorno
+- definición de ventanas de mantenimiento, criterios de aceptación y planes de reversión
+- acompañamiento técnico durante la implementación o actualización
+- validación funcional y técnica posterior a la transición
+- definición de la estrategia inicial de gestión del ciclo de vida
+- transferencia de conocimiento a los equipos responsables de la plataforma
 
 ---
 
 ## Resultados Esperados
 
-- hoja de ruta definida para adopción o modernización hacia VCF
-- arquitectura VMware más estandarizada
-- mejora en la gestión del ciclo de vida y en la consistencia operativa
-- reducción de la complejidad operativa entre dominios de infraestructura
+- estrategia clara para la adopción de VCF 9.x
+- evaluación documentada del estado actual de la plataforma
+- arquitectura objetivo alineada con los requerimientos de la organización
+- ruta de transición técnicamente soportada
+- identificación temprana de incompatibilidades, dependencias y bloqueadores
+- reducción del riesgo durante la actualización o migración
+- incorporación controlada de infraestructura VMware existente
+- plataforma VCF 9.x operativa, escalable y preparada para su evolución
+- modelo inicial de gestión del ciclo de vida claramente definido
+- continuidad operativa protegida durante el proceso de transición
+- equipos técnicos preparados para administrar la nueva plataforma
 
 ---
 
@@ -106,11 +82,106 @@ Las actividades típicas incluyen:
 
 Este servicio suele requerirse cuando:
 
-- una organización está evolucionando hacia VMware Cloud Foundation
-- un entorno VMware legado necesita modernización
-- se requiere estandarización entre múltiples clústeres o dominios
-- una iniciativa de nube privada necesita una arquitectura basada en VCF
-- un partner requiere experiencia especializada para implementaciones VCF complejas
+- una organización opera una versión anterior de VMware Cloud Foundation y necesita evolucionar hacia VCF 9.x
+- un entorno legado basado principalmente en vSphere debe incorporarse a VMware Cloud Foundation
+- una organización administra vSphere, vCenter, vSAN u otros componentes VMware de manera independiente
+- los cambios comerciales y de licenciamiento de VMware/Broadcom requieren redefinir la estrategia de plataforma
+- una renovación de suscripción hace necesario alinear la infraestructura con el portafolio actual de VCF
+- existen dudas sobre compatibilidad, prerrequisitos o rutas de actualización
+- el entorno contiene integraciones críticas que deben preservarse durante la transición
+- se requiere una arquitectura formal antes de implementar VCF 9.x
+- la organización necesita reducir el riesgo de una actualización o migración compleja
+- un partner necesita experiencia especializada para diseñar o ejecutar una iniciativa de adopción de VCF 9.x
+
+---
+
+# 2. Modernización y Adopción de Capacidades Avanzadas de VCF
+
+## Descripción
+
+Este servicio está dirigido a organizaciones que **ya operan sobre VMware Cloud Foundation 9.x** y necesitan evolucionar desde una implementación básica hacia una plataforma de nube privada más completa, automatizada, resiliente y orientada a servicios.
+
+Muchas organizaciones adoptan VCF 9.x inicialmente como una plataforma de infraestructura, pero continúan utilizando únicamente una parte de sus capacidades. Como resultado, mantienen procesos manuales, herramientas aisladas y modelos operativos similares a los que utilizaban antes de adoptar VCF.
+
+Klaud ayuda a estas organizaciones a **obtener mayor valor de los productos y funcionalidades incluidos en su suscripción**, habilitando capacidades avanzadas de operaciones, automatización, almacenamiento, disponibilidad, protección y recuperación.
+
+El servicio también contempla la incorporación de productos complementarios del ecosistema VMware que pueden no estar incluidos en todas las ediciones o suscripciones, pero que agregan valor en áreas como recuperación ante desastres, protección contra ransomware, continuidad del negocio y resiliencia operacional.
+
+El objetivo es convertir una implementación existente de VCF 9.x en una **plataforma moderna de nube privada**, capaz de ofrecer servicios consistentes, automatizados y gobernados a los equipos de infraestructura, operaciones y aplicaciones.
+
+Las capacidades avanzadas de red, incluyendo arquitecturas complejas de NSX y Advanced Load Balancer, se atienden de manera independiente dentro del pilar de Arquitecturas Avanzadas de Red.
+
+---
+
+## Alcance Técnico
+
+Las actividades típicas incluyen:
+
+- evaluación del nivel actual de adopción de VMware Cloud Foundation
+- identificación de capacidades disponibles y actualmente subutilizadas
+- análisis de los productos y derechos incluidos en la suscripción del cliente
+- definición de una hoja de ruta de modernización y adopción progresiva
+- diseño e implementación de VMware Cloud Foundation Operations
+- configuración de monitoreo, capacidad, rendimiento, alertamiento y análisis operativo
+- implementación de tableros, reportes y modelos de visibilidad de la plataforma
+- diseño e implementación de capacidades de automatización
+- creación de catálogos de servicios de infraestructura
+- automatización del aprovisionamiento y ciclo de vida de cargas de trabajo
+- definición de políticas, plantillas, aprobaciones y controles de gobierno
+- integración de automatización con servicios corporativos y herramientas externas
+- diseño e implementación de vSAN Stretched Clusters
+- evaluación de latencia, conectividad, dominios de falla, testigos y políticas de almacenamiento
+- diseño de arquitecturas de alta disponibilidad y resiliencia entre sitios
+- evaluación y modernización de las estrategias de respaldo y recuperación
+- diseño e implementación de capacidades de protección y recuperación ante desastres
+- integración de VMware Live Recovery u otras soluciones compatibles
+- definición de planes de recuperación, grupos de protección y secuencias de arranque
+- implementación de pruebas de recuperación y validación de objetivos RPO y RTO
+- evaluación e incorporación de capacidades de protección contra ransomware
+- definición de estrategias de aislamiento, recuperación limpia e inmutabilidad
+- integración de herramientas complementarias del ecosistema VMware
+- validación de interoperabilidad, dependencias y requisitos de licenciamiento
+- definición del modelo operativo para las nuevas capacidades
+- transferencia de conocimiento a los equipos responsables de la plataforma
+
+---
+
+## Resultados Esperados
+
+- mayor aprovechamiento de la inversión realizada en VMware Cloud Foundation
+- identificación clara de las capacidades incluidas y disponibles para el cliente
+- hoja de ruta priorizada para la modernización de la plataforma
+- reducción de tareas manuales mediante automatización
+- catálogo de servicios de infraestructura estandarizado
+- mejora en la visibilidad, monitoreo y gestión de capacidad
+- operaciones más proactivas y consistentes
+- mayor resiliencia de la plataforma y de las cargas de trabajo
+- estrategias de alta disponibilidad alineadas con los requerimientos del negocio
+- mejora en las capacidades de respaldo y recuperación ante desastres
+- reducción del impacto potencial de incidentes de ransomware
+- objetivos de recuperación claramente definidos y validados
+- integración de capacidades avanzadas bajo un modelo operativo común
+- plataforma VCF más madura, eficiente y orientada al consumo de servicios
+
+---
+
+## Escenarios Objetivo
+
+Este servicio suele requerirse cuando:
+
+- una organización ya opera VCF 9.x, pero utiliza únicamente sus capacidades fundamentales
+- existen funcionalidades incluidas en la suscripción que aún no han sido implementadas
+- los procesos de aprovisionamiento y operación continúan siendo manuales
+- la organización necesita implementar capacidades avanzadas de automatización
+- se requiere mejorar el monitoreo, la gestión de capacidad o la visibilidad operacional
+- la plataforma necesita ofrecer un catálogo de servicios a usuarios internos
+- se requiere implementar vSAN Stretched Clusters para mejorar la disponibilidad entre sitios
+- la organización necesita fortalecer su estrategia de continuidad del negocio
+- deben modernizarse las capacidades de respaldo y recuperación ante desastres
+- se requieren capacidades especializadas de protección y recuperación contra ransomware
+- es necesario incorporar productos complementarios del ecosistema VMware
+- la organización quiere obtener mayor valor técnico y comercial de su suscripción de VCF
+- un partner necesita experiencia especializada para implementar capacidades avanzadas sobre una plataforma VCF existente
 
 ---
 
